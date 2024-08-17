@@ -23,6 +23,7 @@ type RewardDataSimplified struct {
 	Description string
 	Stock       int
 	Partner     string
+	AwardId     int
 }
 
 // RewardData is the struct that represents a part of the JSON response from the API.
@@ -127,6 +128,7 @@ func (d RewardData) ToSimplified() mapset.Set[RewardDataSimplified] {
 			Description: strings.TrimSpace(description),
 			Stock:       quantity,
 			Partner:     partner,
+			AwardId:     award.AwardID,
 		}
 		simplified.Add(one)
 	}
@@ -193,7 +195,7 @@ func main() {
 	allRewards := mapset.NewSet[RewardDataSimplified]()
 
 	g, _ := errgroup.WithContext(context.Background())
-	g.SetLimit(4)
+	g.SetLimit(2)
 
 	// There is also a destination slug.. though it seems to just get dups.
 	slugs := []string{"category"}
