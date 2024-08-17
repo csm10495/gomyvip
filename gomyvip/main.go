@@ -110,7 +110,7 @@ func (d RewardData) ToSimplified() mapset.Set[RewardDataSimplified] {
 		}
 
 		quantity := -1
-		if award.Quantity > 0 {
+		if award.Quantity >= 0 {
 			quantity = award.Quantity
 		}
 
