@@ -1,0 +1,29 @@
+name: Update data every 4 hours
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  run-task:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+      - name: Run gomyvip
+        shell: bash
+        run: |
+          cd gomyvip
+          go run . > ../data.json
+      - name: Commit changes
+        shell: bash
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+          git add data.json
+          git commit -m "Update data.json"
+
+          git status
+          git pull --rebase origin master
+          git push origin master
