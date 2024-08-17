@@ -3,6 +3,7 @@ name: Update data every 4 hours
 on:
   schedule:
     - cron: "0 */4 * * *"
+  workflow_dispatch:
 
 jobs:
   run-task:
