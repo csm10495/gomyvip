@@ -23,7 +23,7 @@ type RewardDataSimplified struct {
 	Description string
 	Stock       int
 	Partner     string
-	AwardId     int
+	OfferID     int
 }
 
 // RewardData is the struct that represents a part of the JSON response from the API.
@@ -128,7 +128,7 @@ func (d RewardData) ToSimplified() mapset.Set[RewardDataSimplified] {
 			Description: strings.TrimSpace(description),
 			Stock:       quantity,
 			Partner:     partner,
-			AwardId:     award.AwardID,
+			OfferID:     award.OfferID,
 		}
 		simplified.Add(one)
 	}
@@ -220,7 +220,7 @@ func main() {
 		if allRewardsSlice[i].Price == allRewardsSlice[j].Price {
 			if allRewardsSlice[i].Name == allRewardsSlice[j].Name {
 				if allRewardsSlice[i].Partner == allRewardsSlice[j].Partner {
-					return allRewardsSlice[i].AwardId < allRewardsSlice[j].AwardId
+					return allRewardsSlice[i].OfferID < allRewardsSlice[j].OfferID
 				}
 				return allRewardsSlice[i].Partner < allRewardsSlice[j].Partner
 			}
