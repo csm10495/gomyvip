@@ -16,15 +16,28 @@ jobs:
         run: |
           cd gomyvip
           go run . > ../data.json
-      - name: Commit changes
+      - name: Setup git
         shell: bash
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-
+      - name: Commit changes
+        shell: bash
+        run: |
           git add data.json
           git commit -m "Update data.json"
 
-          git status
+          git pull --rebase origin master
+          git push origin master
+      - uses: actions/setup-python@v5
+      - name: Generate html table
+        shell: bash
+        run: |
+          pip3 install jtbl
+          cat data.json | jtbl -H > data.html
+
+          git add data.html
+          git commit -m "Update data.html"
+
           git pull --rebase origin master
           git push origin master
