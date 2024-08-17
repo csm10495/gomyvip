@@ -36,10 +36,12 @@ jobs:
         shell: bash
         run: |
           pip3 install jtbl
-          cat data.json | jtbl -H > data.html
 
-          git add data.html
-          git commit -m "Update data.html"
+          mkdir -p html
+          cat data.json | jtbl -H > html/index.html
+
+          git add html/index.html
+          git commit -m "Update index.html"
 
           git pull --rebase origin master
           git push origin master
