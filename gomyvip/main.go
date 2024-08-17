@@ -219,6 +219,9 @@ func main() {
 	sort.Slice(allRewardsSlice, func(i, j int) bool {
 		if allRewardsSlice[i].Price == allRewardsSlice[j].Price {
 			if allRewardsSlice[i].Name == allRewardsSlice[j].Name {
+				if allRewardsSlice[i].Partner == allRewardsSlice[j].Partner {
+					return allRewardsSlice[i].AwardId < allRewardsSlice[j].AwardId
+				}
 				return allRewardsSlice[i].Partner < allRewardsSlice[j].Partner
 			}
 			return allRewardsSlice[i].Name < allRewardsSlice[j].Name
