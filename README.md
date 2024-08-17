@@ -24,3 +24,5 @@ C:\Users\csm10495\Desktop\gomyvip\gomyvip>go run .
 ```
 
 If the Stock field is -1, there was no available stock data from the API.
+
+To see a pretty-ish output of all rewards see: https://csm10495.github.io/gomyvip/
