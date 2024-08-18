@@ -37,10 +37,10 @@ jobs:
         run: |
           pip3 install jtbl
 
-          mkdir -p html
-          cat data.json | jtbl -H > html/index.html
+          mkdir -p docs
+          cat data.json | jtbl -H > docs/index.html
 
-          git add html/index.html
+          git add docs/index.html
           git commit -m "Update index.html"
 
           git pull --rebase origin master
