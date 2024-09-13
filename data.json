@@ -27,7 +27,7 @@
         "Name": "Complimentary Coffee",
         "Price": 1000,
         "Description": "Take a walk thru our Conservatory and stop by Bellagio Patisserie for a free small coffee.",
-        "Stock": 47,
+        "Stock": 45,
         "Partner": "MGM National Harbor",
         "OfferID": 33876
     },
@@ -35,7 +35,7 @@
         "Name": "Complimentary Guidebook",
         "Price": 1000,
         "Description": "Enjoy a complimentary guidebook when you purchase 1 adult admission at full price at Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 46,
+        "Stock": 47,
         "Partner": "Madame Tussauds Las Vegas",
         "OfferID": 33523
     },
@@ -59,7 +59,7 @@
         "Name": "Free Beer Upgrade",
         "Price": 1000,
         "Description": "Enjoy a free 42oz beer upgrade at TAP Sports bar.",
-        "Stock": 33,
+        "Stock": 34,
         "Partner": "MGM National Harbor",
         "OfferID": 33842
     },
@@ -131,7 +131,7 @@
         "Name": "BOGO Chocolate Strawberry",
         "Price": 1800,
         "Description": "Indulge in a delicious strawberry covered in the world famous Hershey's chocolate and get one free!",
-        "Stock": 85,
+        "Stock": 82,
         "Partner": "Hershey's Las Vegas",
         "OfferID": 33893
     },
@@ -147,7 +147,7 @@
         "Name": "Complimentary Pastry",
         "Price": 1800,
         "Description": "Enjoy a free pastry of your choice from Bellagio Patisserie, as you satisfy your sweet tooth with French-inspired sweets.",
-        "Stock": 24,
+        "Stock": 23,
         "Partner": "MGM National Harbor",
         "OfferID": 33307
     },
@@ -155,7 +155,7 @@
         "Name": "Exclusive $69 Rate M-TH",
         "Price": 2000,
         "Description": "Enjoy $69 Midweek Rate, Mon-Thur for our Signature Room for up to two nights based on availability now through September.",
-        "Stock": 88,
+        "Stock": 87,
         "Partner": "El Cajon, CA",
         "OfferID": 33415
     },
@@ -259,7 +259,7 @@
         "Name": "Comp Cinnamon Roll",
         "Price": 2500,
         "Description": "Enjoy a complimentary cinnamon roll with the purchase of a breakfast entree and 2 drinks during breakfast hours!",
-        "Stock": 74,
+        "Stock": 73,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 34140
     },
@@ -267,7 +267,7 @@
         "Name": "Free App w/ Purchase",
         "Price": 2500,
         "Description": "Enjoy a free appetizer with purchase of an entree at Voltaggio Brothers Steak House.",
-        "Stock": 8,
+        "Stock": 7,
         "Partner": "MGM National Harbor",
         "OfferID": 33685
     },
@@ -275,7 +275,7 @@
         "Name": "Free Photo Frame",
         "Price": 2500,
         "Description": "With a purchase of $30 or more, get a free photo frame. Remember your trip to the Hershey's Factory Las Vegas with the perfect memorabilia photo frame!",
-        "Stock": 96,
+        "Stock": 94,
         "Partner": "Hershey's Las Vegas",
         "OfferID": 33894
     },
@@ -283,7 +283,7 @@
         "Name": "Comp Sundae",
         "Price": 2700,
         "Description": "Enjoy a complimentary Sundae with the purchase of any milkshake!",
-        "Stock": 72,
+        "Stock": 67,
         "Partner": "Hershey's Las Vegas",
         "OfferID": 33895
     },
@@ -307,7 +307,7 @@
         "Name": "50% off Plush Toys",
         "Price": 3000,
         "Description": "Enjoy 50% off exclusive plush toys at Hershey's World Las Vegas!",
-        "Stock": 11,
+        "Stock": 9,
         "Partner": "Hershey's Las Vegas",
         "OfferID": 33890
     },
@@ -331,7 +331,7 @@
         "Name": "Signature Wine",
         "Price": 3000,
         "Description": "Enjoy a complimentary bottle of Wolfgang Puck’s signature wine with the purchase of 2 entrées at Wolfgang Puck Bar + Grill!",
-        "Stock": 15,
+        "Stock": 13,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 33912
     },
@@ -387,7 +387,7 @@
         "Name": "30% Off Merchandise",
         "Price": 3800,
         "Description": "Save 30% on all merchandise at Illuminarium. Grab your favorite souvenirs and gifts for less!",
-        "Stock": 50,
+        "Stock": 49,
         "Partner": "Illuminarium Las Vegas",
         "OfferID": 33985
     },
@@ -411,7 +411,7 @@
         "Name": "2-for-1 Cocktails",
         "Price": 4000,
         "Description": "Buy one cocktail, get another one free at Della's Kitchen located inside Delano.",
-        "Stock": 42,
+        "Stock": 40,
         "Partner": "Mandalay Bay",
         "OfferID": 33839
     },
@@ -531,7 +531,7 @@
         "Name": "$15 Off $100 Order",
         "Price": 5000,
         "Description": "Enjoy $15 off your $100 order with MANSCAPED®!\n\nThe Best In Men's Grooming — Shop The Collection Of Precision-Engineered Tools and Grooming Must-Haves Designed For Your Body and Beard!",
-        "Stock": 1027,
+        "Stock": 1022,
         "Partner": "MANSCAPED®",
         "OfferID": 34083
     },
@@ -547,7 +547,7 @@
         "Name": "$25 TAP Sports Bar Credit",
         "Price": 5000,
         "Description": "Enjoy $25 off your purchase of $50 or more at TAP Sports Bar at Excalibur Hotel \u0026 Casino!",
-        "Stock": 158,
+        "Stock": 154,
         "Partner": "Excalibur",
         "OfferID": 33678
     },
@@ -563,7 +563,7 @@
         "Name": "1 Complimentary Mimosa!",
         "Price": 5000,
         "Description": "Enjoy a complimentary mimosa with purchase of 1 entree at Avenue Cafe!",
-        "Stock": 196,
+        "Stock": 194,
         "Partner": "MGM Grand LV",
         "OfferID": 33672
     },
@@ -571,7 +571,7 @@
         "Name": "1 Order of Beignets",
         "Price": 5000,
         "Description": "Enjoy one complimentary order of beignets at Roasted Bean.",
-        "Stock": 44,
+        "Stock": 43,
         "Partner": "Biloxi",
         "OfferID": 33468
     },
@@ -587,7 +587,7 @@
         "Name": "2-for-1 Cocktail!",
         "Price": 5000,
         "Description": "Enjoy a 2-for-1 cocktail at Lobby Bar inside Excalibur.",
-        "Stock": 172,
+        "Stock": 175,
         "Partner": "Excalibur",
         "OfferID": 33329
     },
@@ -595,7 +595,7 @@
         "Name": "2-for-1 Tom Size Beers",
         "Price": 5000,
         "Description": "Two 40oz Tom Size Beers for the Price of One",
-        "Stock": 41,
+        "Stock": 37,
         "Partner": "New York-New York",
         "OfferID": 33875
     },
@@ -683,7 +683,7 @@
         "Name": "Appetizer On Us",
         "Price": 5000,
         "Description": "Enjoy a complimentary appetizer with purchase of an entrée.",
-        "Stock": 17,
+        "Stock": 15,
         "Partner": "Park MGM",
         "OfferID": 34196
     },
@@ -779,7 +779,7 @@
         "Name": "Free Drink",
         "Price": 5000,
         "Description": "Buy 1 adult ticket, receive 1 free drink at the bar! Choose between experincing the Wonders of the American West, Iceland or the Candian Rockies and a specialty cocktail!",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "FlyOver Las Vegas",
         "OfferID": 34125
     },
@@ -787,7 +787,7 @@
         "Name": "Free Starter with Entrée",
         "Price": 5000,
         "Description": "Free Starter with Entrée Purchase Tom's Urban.",
-        "Stock": 21,
+        "Stock": 20,
         "Partner": "New York-New York",
         "OfferID": 33810
     },
@@ -955,7 +955,7 @@
         "Name": "1 Complimentary Cocktail",
         "Price": 5500,
         "Description": "Receive 1 Complimentary Signature Cocktail at Rhythm \u0026 Riffs inside Mandalay Bay.",
-        "Stock": 43,
+        "Stock": 40,
         "Partner": "Mandalay Bay",
         "OfferID": 33669
     },
@@ -963,7 +963,7 @@
         "Name": "125 My Club Reward Points",
         "Price": 5500,
         "Description": "Enjoy 125 My Club Reward Points redeemable at Gateway Casinos Thunder Bay to apply towards free play.",
-        "Stock": 27,
+        "Stock": 26,
         "Partner": "Gateway Casinos Thunder Bay",
         "OfferID": 34166
     },
@@ -995,7 +995,7 @@
         "Name": "20% Off Food Only",
         "Price": 6000,
         "Description": "Receive 20% off (Food only) the entire check at MGM Grand Bar + Grill.",
-        "Stock": 48,
+        "Stock": 47,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 33911
     },
@@ -1011,7 +1011,7 @@
         "Name": "Appetizer On Us",
         "Price": 6000,
         "Description": "Enjoy a complimentary appetizer with purchase of an entrée at Primrose.",
-        "Stock": 1,
+        "Stock": 0,
         "Partner": "Park MGM",
         "OfferID": 33675
     },
@@ -1027,7 +1027,7 @@
         "Name": "Unlimited 1 Day Pass",
         "Price": 6250,
         "Description": "Unlimited One-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 784,
+        "Stock": 782,
         "Partner": "Las Vegas Monorail",
         "OfferID": 34141
     },
@@ -1043,7 +1043,7 @@
         "Name": "20% Off 1-800-Flowers",
         "Price": 6500,
         "Description": "Enjoy 20% off on your purchase at 1800FLOWERS.com!",
-        "Stock": 2693,
+        "Stock": 2691,
         "Partner": "1-800-Flowers",
         "OfferID": 33918
     },
@@ -1059,7 +1059,7 @@
         "Name": "BOGO Entree",
         "Price": 6500,
         "Description": "Enjoy a complimentary entree item, of equal or lesser value, with the purchase of another entree item at MATCH Eatery \u0026 Public House",
-        "Stock": 27,
+        "Stock": 26,
         "Partner": "MATCH Eatery and Public House",
         "OfferID": 33984
     },
@@ -1099,7 +1099,7 @@
         "Name": "Complimentary Photo",
         "Price": 7000,
         "Description": "Receive a complimentary photo with your Maverick Helicopters Excursion.",
-        "Stock": 6,
+        "Stock": 5,
         "Partner": "Maverick Helicopters",
         "OfferID": 33634
     },
@@ -1123,7 +1123,7 @@
         "Name": "Unlimited 2 Day Pass",
         "Price": 7250,
         "Description": "Unlimited Two-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 517,
+        "Stock": 515,
         "Partner": "Las Vegas Monorail",
         "OfferID": 34142
     },
@@ -1171,7 +1171,7 @@
         "Name": "40% off a Single Ride",
         "Price": 7500,
         "Description": "Enjoy 40% off a single ride at FlyOver. Chose between experincing the Wonders of the American West, Iceland or the Candian Rockies!",
-        "Stock": 92,
+        "Stock": 90,
         "Partner": "FlyOver Las Vegas",
         "OfferID": 34124
     },
@@ -1179,7 +1179,7 @@
         "Name": "Comp Starter",
         "Price": 7500,
         "Description": "Enjoy a complimentary starter with purchase of an entrée at Best Friend, Roy Choi's Korean BBQ joint at Park MGM!",
-        "Stock": 24,
+        "Stock": 23,
         "Partner": "Park MGM",
         "OfferID": 33945
     },
@@ -1203,7 +1203,7 @@
         "Name": "Get $10 off Carrot Top",
         "Price": 8000,
         "Description": "Receive $10 off tickets to Carrot Top, \"Best Male Stand-Up Comedian!\"",
-        "Stock": 59,
+        "Stock": 60,
         "Partner": "Luxor",
         "OfferID": 33729
     },
@@ -1211,7 +1211,7 @@
         "Name": "Unlimited 3 Day Pass",
         "Price": 8250,
         "Description": "Unlimited Three-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 725,
+        "Stock": 723,
         "Partner": "Las Vegas Monorail",
         "OfferID": 34143
     },
@@ -1251,7 +1251,7 @@
         "Name": "BOGO Adult Admission",
         "Price": 9000,
         "Description": "Enjoy a complimentary daytime adult admission with the purchase of a full price adult admission.",
-        "Stock": 92,
+        "Stock": 89,
         "Partner": "The Neon Museum",
         "OfferID": 34138
     },
@@ -1267,7 +1267,7 @@
         "Name": "Unlimited 4 Day Pass",
         "Price": 9250,
         "Description": "Unlimited Four-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 454,
+        "Stock": 451,
         "Partner": "Las Vegas Monorail",
         "OfferID": 34145
     },
@@ -1275,7 +1275,7 @@
         "Name": "$25 off Spa Service",
         "Price": 10000,
         "Description": "Enjoy $25 off of any spa service of $50 or more in the Luxor Spa. Offer valid Monday - Sunday.",
-        "Stock": 47,
+        "Stock": 46,
         "Partner": "Luxor",
         "OfferID": 33942
     },
@@ -1299,7 +1299,7 @@
         "Name": "20% Off MJ ONE",
         "Price": 10000,
         "Description": "Receive 20% off standard tickets to Michael Jackson ONE at Mandalay Bay.",
-        "Stock": 141,
+        "Stock": 142,
         "Partner": "Mandalay Bay",
         "OfferID": 33332
     },
@@ -1315,7 +1315,7 @@
         "Name": "25% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 25% off room rates at Bellagio!",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "Bellagio",
         "OfferID": 33213
     },
@@ -1323,7 +1323,7 @@
         "Name": "25% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 25% off room rates at Beau Rivage Resort \u0026 Casino!",
-        "Stock": 49,
+        "Stock": 48,
         "Partner": "Biloxi",
         "OfferID": 33374
     },
@@ -1339,7 +1339,7 @@
         "Name": "25% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 25% off room rates at Mandalay Bay Resort \u0026 Casino!",
-        "Stock": 148,
+        "Stock": 147,
         "Partner": "Mandalay Bay",
         "OfferID": 33204
     },
@@ -1363,7 +1363,7 @@
         "Name": "25% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 25% off room rates at Vdara!",
-        "Stock": 98,
+        "Stock": 96,
         "Partner": "Vdara",
         "OfferID": 33188
     },
@@ -1371,7 +1371,7 @@
         "Name": "30% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 30% off room rates at Excalibur Hotel \u0026 Casino!",
-        "Stock": 95,
+        "Stock": 94,
         "Partner": "Excalibur",
         "OfferID": 33187
     },
@@ -1379,7 +1379,7 @@
         "Name": "30% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 30% off room rates at Luxor!",
-        "Stock": 95,
+        "Stock": 94,
         "Partner": "Luxor",
         "OfferID": 33186
     },
@@ -1395,7 +1395,7 @@
         "Name": "35% off Mystere 9:30 Show",
         "Price": 10000,
         "Description": "Enjoy 35% off tickets to Cirque du Soleil Mystere 9:30PM 2024 shows.",
-        "Stock": 1612,
+        "Stock": 1608,
         "Partner": "Cirque du Soleil Mystere",
         "OfferID": 33846
     },
@@ -1411,7 +1411,7 @@
         "Name": "50% off an Entrée",
         "Price": 10000,
         "Description": "Enjoy 50% off your entrée with the purchase of another entrée of equal or greater value and 2 beverages.",
-        "Stock": 91,
+        "Stock": 89,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 34228
     },
@@ -1451,7 +1451,7 @@
         "Name": "Complimentary Coffee",
         "Price": 10000,
         "Description": "Enjoy a complimentary cup of coffee at The Roasted Bean!",
-        "Stock": 25,
+        "Stock": 24,
         "Partner": "MGM Grand Detroit",
         "OfferID": 33844
     },
@@ -1459,7 +1459,7 @@
         "Name": "Complimentary Dessert",
         "Price": 10000,
         "Description": "Enjoy a complimentary dessert with an entrée purchase at TAP!",
-        "Stock": 20,
+        "Stock": 19,
         "Partner": "MGM Northfield Park",
         "OfferID": 33934
     },
@@ -1507,7 +1507,7 @@
         "Name": "Free Nachos at Diablo's",
         "Price": 10000,
         "Description": "Enjoy Free Nachos at MGM National Harbor Diablo's Cantina.",
-        "Stock": 11,
+        "Stock": 9,
         "Partner": "MGM National Harbor",
         "OfferID": 34055
     },
@@ -1523,7 +1523,7 @@
         "Name": "Public House Appetizer",
         "Price": 10000,
         "Description": "Enjoy a complimentary appetizer at Public House with the purchase of an entrée.",
-        "Stock": 41,
+        "Stock": 40,
         "Partner": "Luxor",
         "OfferID": 34190
     },
@@ -1539,7 +1539,7 @@
         "Name": "The Burlesque Show 9.19",
         "Price": 10000,
         "Description": "Enjoy 50%  off tickets to The Burlesque Show at The Music Box at Borgata.",
-        "Stock": 85,
+        "Stock": 84,
         "Partner": "Atlantic City NJ",
         "OfferID": 34013
     },
@@ -1547,7 +1547,7 @@
         "Name": "The Burlesque Show 9.26",
         "Price": 10000,
         "Description": "Enjoy 50%  off tickets to The Burlesque Show at The Music Box at Borgata.",
-        "Stock": 95,
+        "Stock": 93,
         "Partner": "Atlantic City NJ",
         "OfferID": 34014
     },
@@ -1571,7 +1571,7 @@
         "Name": "Unlimited 5 Day Pass",
         "Price": 10250,
         "Description": "Unlimited Five-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 298,
+        "Stock": 297,
         "Partner": "Las Vegas Monorail",
         "OfferID": 34144
     },
@@ -1587,7 +1587,7 @@
         "Name": "60% off Van Gogh TIX, NV",
         "Price": 11000,
         "Description": "Enjoy 60% off tickets to the Lighthouses Immersive Van Gogh Exhibit in Las Vegas, Nevada.",
-        "Stock": 87,
+        "Stock": 86,
         "Partner": "Lighthouse Immersive Las Vegas Exhibit",
         "OfferID": 33960
     },
@@ -1688,14 +1688,6 @@
         "OfferID": 33637
     },
     {
-        "Name": "$25 in Free Play",
-        "Price": 13000,
-        "Description": "This reward entitles you to $25 in Free Play inside Casino Royale, with the purchase of a cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 60,
-        "Partner": "Any Sailing",
-        "OfferID": 33239
-    },
-    {
         "Name": "2-for-1 Sunday Brunch",
         "Price": 13000,
         "Description": "Buy one get one Sunday Brunch at Osteria Costa (excluding tax and gratuity).",
@@ -1707,7 +1699,7 @@
         "Name": "50% off Zip Up Hoodie",
         "Price": 13000,
         "Description": "Take home the cozy with 50% off all Adult Zip Up Hershey's Branded Hoodie.",
-        "Stock": 8,
+        "Stock": 0,
         "Partner": "Hershey's Las Vegas",
         "OfferID": 33892
     },
@@ -1739,7 +1731,7 @@
         "Name": "$50 Spa Credit",
         "Price": 15000,
         "Description": "$50 Spa Credit at Spa Ritual Wednesdays through Mondays",
-        "Stock": 29,
+        "Stock": 28,
         "Partner": "El Cajon, CA",
         "OfferID": 33419
     },
@@ -1771,7 +1763,7 @@
         "Name": "2-for-1 Cocktails",
         "Price": 15000,
         "Description": "Enjoy a complimentary specialty cocktail with the purchase of any specialty cocktail at Mama Rabbit.",
-        "Stock": 15,
+        "Stock": 14,
         "Partner": "Park MGM",
         "OfferID": 33330
     },
@@ -1779,7 +1771,7 @@
         "Name": "2-for-1 Cocktails",
         "Price": 15000,
         "Description": "Enjoy a complimentary specialty cocktail with the purchase of any specialty cocktail at BetMGM Sports Bar.",
-        "Stock": 15,
+        "Stock": 14,
         "Partner": "Park MGM",
         "OfferID": 33677
     },
@@ -1803,7 +1795,7 @@
         "Name": "BOGO Adult Admission",
         "Price": 15000,
         "Description": "Enjoy a complimentary nighttime adult admission with the purchase of a full price adult admission.",
-        "Stock": 94,
+        "Stock": 92,
         "Partner": "The Neon Museum",
         "OfferID": 34139
     },
@@ -1811,7 +1803,7 @@
         "Name": "BOGO Cocktails!",
         "Price": 15000,
         "Description": "Buy one cocktail, get one free at Lobby Bar!",
-        "Stock": 15,
+        "Stock": 13,
         "Partner": "MGM Grand LV",
         "OfferID": 33872
     },
@@ -1819,7 +1811,7 @@
         "Name": "BOGO Cocktails!",
         "Price": 15000,
         "Description": "Buy one cocktail and get one free at VICE VERSA Patio \u0026 Lounge.",
-        "Stock": 78,
+        "Stock": 77,
         "Partner": "Vdara",
         "OfferID": 34135
     },
@@ -1827,7 +1819,7 @@
         "Name": "BOGO Shot!",
         "Price": 15000,
         "Description": "Buy one Sweet Shot, get one free at The Chocolate Bar!",
-        "Stock": 14,
+        "Stock": 12,
         "Partner": "New York-New York",
         "OfferID": 33673
     },
@@ -1843,7 +1835,7 @@
         "Name": "Free $10 STJP Gift Card",
         "Price": 15000,
         "Description": "Join as a STJP Bowling Club Member and receive a complimentary AUD$10 STJP Gift Card",
-        "Stock": 10,
+        "Stock": 9,
         "Partner": "Australia",
         "OfferID": 33481
     },
@@ -1899,7 +1891,7 @@
         "Name": "$20 Public House Credit",
         "Price": 17000,
         "Description": "Enjoy $20 off your purchase of $40 or more at Public House at Luxor Hotel \u0026 Casino!",
-        "Stock": 164,
+        "Stock": 156,
         "Partner": "Luxor",
         "OfferID": 33871
     },
@@ -1979,7 +1971,7 @@
         "Name": "25% off Mystere 7PM Show",
         "Price": 20000,
         "Description": "Enjoy 25% off tickets to Cirque du Soleil Mystère 7:00 PM 2024 shows.",
-        "Stock": 3791,
+        "Stock": 3790,
         "Partner": "Cirque du Soleil Mystere",
         "OfferID": 34214
     },
@@ -1987,7 +1979,7 @@
         "Name": "BOGO Gelato at Patisserie",
         "Price": 20000,
         "Description": "Enjoy 2-for-1 gelato at ARIA Patisserie.",
-        "Stock": 15,
+        "Stock": 2,
         "Partner": "ARIA",
         "OfferID": 34187
     },
@@ -1995,7 +1987,7 @@
         "Name": "Bonus Entries Car Drawing",
         "Price": 20000,
         "Description": "Receive 50 Bonus Entries into our monthly car drawings. Get the chance to win!",
-        "Stock": 12,
+        "Stock": 10,
         "Partner": "MGM Springfield",
         "OfferID": 33680
     },
@@ -2003,7 +1995,7 @@
         "Name": "Buy One Get One Gelato",
         "Price": 20000,
         "Description": "Enjoy two decadent servings of Gelato for the price of one!",
-        "Stock": 9,
+        "Stock": 0,
         "Partner": "Bellagio",
         "OfferID": 34189
     },
@@ -2035,7 +2027,7 @@
         "Name": "Vegas Views $25 Off",
         "Price": 23000,
         "Description": "Night-time helicopter flight over Las Vegas with spectacular views of the Strips mega resorts including the Bellagio, Aria and the Luxor.",
-        "Stock": 20,
+        "Stock": 19,
         "Partner": "Maverick Helicopters",
         "OfferID": 33635
     },
@@ -2043,7 +2035,7 @@
         "Name": "$20 Julian Serrano Credit",
         "Price": 25000,
         "Description": "Experience the energy, flavor and excitement of Spanish cuisine at Julian Serrano. Enjoy $20 off your purchase of $40 or more at Julian Serrano!",
-        "Stock": 20,
+        "Stock": 19,
         "Partner": "ARIA",
         "OfferID": 34184
     },
@@ -2115,7 +2107,7 @@
         "Name": "BOGO Roller Coaster",
         "Price": 25000,
         "Description": "Enjoy a Buy One Get One Roller Coaster Pass at New York-New York!",
-        "Stock": 14,
+        "Stock": 11,
         "Partner": "New York-New York",
         "OfferID": 34066
     },
@@ -2155,7 +2147,7 @@
         "Name": "$15 credit at South",
         "Price": 27000,
         "Description": "Receive a $15 credit at South End Market. There's a taste for everyone.",
-        "Stock": 29,
+        "Stock": 28,
         "Partner": "MGM Springfield",
         "OfferID": 34192
     },
@@ -2195,7 +2187,7 @@
         "Name": "$15 FREEplay",
         "Price": 30000,
         "Description": "Grab $15 FREEplay and test your luck on our wide assortment of casino slot machines.",
-        "Stock": 299,
+        "Stock": 298,
         "Partner": "El Cajon, CA",
         "OfferID": 33417
     },
@@ -2203,7 +2195,7 @@
         "Name": "$15 Match Play",
         "Price": 30000,
         "Description": "Receive $15 in Match Play!",
-        "Stock": 82,
+        "Stock": 79,
         "Partner": "Park MGM",
         "OfferID": 33296
     },
@@ -2211,7 +2203,7 @@
         "Name": "1 Cocktail at Lobby Bar",
         "Price": 30000,
         "Description": "Receive one complimentary cocktail at Lobby Bar.",
-        "Stock": 52,
+        "Stock": 47,
         "Partner": "ARIA",
         "OfferID": 33923
     },
@@ -2315,7 +2307,7 @@
         "Name": "$100 in Onboard Credit",
         "Price": 35000,
         "Description": "This reward entitles you to a $100 Onboard Credit, with the purchase of a Royal Caribbean International cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 39,
+        "Stock": 35,
         "Partner": "Any Sailing",
         "OfferID": 33243
     },
@@ -2339,7 +2331,7 @@
         "Name": "50% Off Two Tickets",
         "Price": 35000,
         "Description": "Get 50% off when you purchase two adult tickets to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 42,
+        "Stock": 35,
         "Partner": "Mandalay Bay",
         "OfferID": 34193
     },
@@ -2363,7 +2355,7 @@
         "Name": "BOGO Admission",
         "Price": 40000,
         "Description": "Purchase full price adult admission and enjoy a complimentary adult admission at Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 38,
+        "Stock": 37,
         "Partner": "Madame Tussauds Las Vegas",
         "OfferID": 34155
     },
@@ -2379,7 +2371,7 @@
         "Name": "Enjoy Free Parking",
         "Price": 40000,
         "Description": "One day of complimentary parking at Borgata!",
-        "Stock": 10,
+        "Stock": 8,
         "Partner": "Atlantic City NJ",
         "OfferID": 33932
     },
@@ -2395,7 +2387,7 @@
         "Name": "Topgolf Swing Suite",
         "Price": 40000,
         "Description": "Receive one hour of free golf in the Top Golf Swing Suite with a minimum $50 food and beverage purchase.",
-        "Stock": 23,
+        "Stock": 22,
         "Partner": "MGM Springfield",
         "OfferID": 33877
     },
@@ -2419,7 +2411,7 @@
         "Name": "20% Off PBR Tickets",
         "Price": 45000,
         "Description": "Witness the PBR Teams Championship in Las Vegas! Enjoy 20% off tickets, Oct 18-20.",
-        "Stock": 507,
+        "Stock": 505,
         "Partner": "T-Mobile Arena",
         "OfferID": 34179
     },
@@ -2427,7 +2419,7 @@
         "Name": "Complimentary Sandwich",
         "Price": 45000,
         "Description": "Enjoy a complimentary fried chicken sandwich at Honey's!",
-        "Stock": 23,
+        "Stock": 21,
         "Partner": "MGM National Harbor",
         "OfferID": 33851
     },
@@ -2451,7 +2443,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 50000,
         "Description": "This reward entitles you to a $100 FREEPLAY, with the purchase of a Royal Caribbean cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 57,
+        "Stock": 58,
         "Partner": "Any Sailing",
         "OfferID": 33242
     },
@@ -2459,7 +2451,7 @@
         "Name": "$25 Match Play",
         "Price": 50000,
         "Description": "Enjoy $25 in Match Play! Valid only for Blackjack Table Games at Park MGM.  This is a Premium Rewards and may be subject to additional restrictions.",
-        "Stock": 13,
+        "Stock": 10,
         "Partner": "Park MGM",
         "OfferID": 33676
     },
@@ -2467,7 +2459,7 @@
         "Name": "$25 in FREEPLAY",
         "Price": 50000,
         "Description": "Enjoy $25 in FREEPLAY at Aria Resort and Casino.",
-        "Stock": 194,
+        "Stock": 195,
         "Partner": "ARIA",
         "OfferID": 33868
     },
@@ -2483,7 +2475,7 @@
         "Name": "$25 in FREEPLAY",
         "Price": 50000,
         "Description": "Enjoy $25 in FREEPLAY with the minimum two night paid stay at Luxor.",
-        "Stock": 96,
+        "Stock": 94,
         "Partner": "Luxor",
         "OfferID": 33831
     },
@@ -2499,7 +2491,7 @@
         "Name": "$25 in FREEPLAY",
         "Price": 50000,
         "Description": "Receive $25 in FREEPLAY when you book a minimum two-night paid stay at Mandalay Bay Resort \u0026 Casino.",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "Mandalay Bay",
         "OfferID": 33838
     },
@@ -2507,7 +2499,7 @@
         "Name": "$25 in FREEPLAY",
         "Price": 50000,
         "Description": "Enjoy $25 in FREEPLAY at New York-New York Resort and Casino.",
-        "Stock": 98,
+        "Stock": 99,
         "Partner": "New York-New York",
         "OfferID": 33294
     },
@@ -2515,7 +2507,7 @@
         "Name": "$25 in FREEPLAY",
         "Price": 50000,
         "Description": "Enjoy $25 FREEPLAY at Park MGM.",
-        "Stock": 90,
+        "Stock": 89,
         "Partner": "Park MGM",
         "OfferID": 33293
     },
@@ -2603,7 +2595,7 @@
         "Name": "Shark Reef Ticket",
         "Price": 50000,
         "Description": "Receive One (1) complimentary ticket to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 26,
+        "Stock": 18,
         "Partner": "Mandalay Bay",
         "OfferID": 34194
     },
@@ -2627,7 +2619,7 @@
         "Name": "$25 in FREEPLAY",
         "Price": 60000,
         "Description": "It only takes one spin to win. Enjoy $25 in FREEPLAY at Bellagio Resort and Casino.",
-        "Stock": 97,
+        "Stock": 96,
         "Partner": "Bellagio",
         "OfferID": 34186
     },
@@ -2643,7 +2635,7 @@
         "Name": "2024 - 50% off 2 tickets",
         "Price": 60000,
         "Description": "Enjoy 50% off two (2) standard tickets to Mad Apple at New York New York.",
-        "Stock": 129,
+        "Stock": 126,
         "Partner": "New York-New York",
         "OfferID": 33931
     },
@@ -2715,7 +2707,7 @@
         "Name": "50% off 2 Tickets T.O.K",
         "Price": 70000,
         "Description": "Receive 50% off of the purchase of two (2) tickets to Tournament of Kings at Excalibur. This offer is for 2024 shows",
-        "Stock": 9,
+        "Stock": 8,
         "Partner": "Excalibur",
         "OfferID": 34064
     },
@@ -2731,7 +2723,7 @@
         "Name": "$50 FP + Room at Park",
         "Price": 75000,
         "Description": "Enjoy your stay at Park MGM with $50 in FREEPLAY!",
-        "Stock": 42,
+        "Stock": 41,
         "Partner": "Park MGM",
         "OfferID": 34244
     },
@@ -2739,7 +2731,7 @@
         "Name": "$50 in FREEPLAY",
         "Price": 75000,
         "Description": "Enjoy $50 in FREEPLAY at Aria Resort and Casino.",
-        "Stock": 95,
+        "Stock": 93,
         "Partner": "ARIA",
         "OfferID": 33302
     },
@@ -2747,7 +2739,7 @@
         "Name": "$50 in FREEPLAY",
         "Price": 75000,
         "Description": "Enjoy $50 in FREEPLAY at Bellagio Resort and Casino.",
-        "Stock": 97,
+        "Stock": 96,
         "Partner": "Bellagio",
         "OfferID": 33822
     },
@@ -2755,7 +2747,7 @@
         "Name": "$50 in FREEPLAY",
         "Price": 75000,
         "Description": "Enjoy $50 in FREEPLAY at Excalibur Resort and Casino when you book a minimum two night paid stay.",
-        "Stock": 86,
+        "Stock": 85,
         "Partner": "Excalibur",
         "OfferID": 33850
     },
@@ -2771,7 +2763,7 @@
         "Name": "$50 in FREEPLAY",
         "Price": 75000,
         "Description": "Enjoy $50 in FREEPLAY at MGM Grand Las Vegas.",
-        "Stock": 89,
+        "Stock": 90,
         "Partner": "MGM Grand LV",
         "OfferID": 33804
     },
@@ -2779,7 +2771,7 @@
         "Name": "$50 in FREEPLAY",
         "Price": 75000,
         "Description": "Receive $50 in FREEPLAY when you book a minimum two-night paid stay at Mandalay Bay Resort \u0026 Casino.",
-        "Stock": 94,
+        "Stock": 93,
         "Partner": "Mandalay Bay",
         "OfferID": 34183
     },
@@ -2787,7 +2779,7 @@
         "Name": "$50 in FREEPLAY",
         "Price": 75000,
         "Description": "Enjoy $50 in FREEPLAY at New York - New York Resort and Casino.",
-        "Stock": 90,
+        "Stock": 92,
         "Partner": "New York-New York",
         "OfferID": 33788
     },
@@ -2795,7 +2787,7 @@
         "Name": "1 All-Day Scream Pass",
         "Price": 75000,
         "Description": "Enjoy one All-Day Scream Pass at New York-New York.",
-        "Stock": 16,
+        "Stock": 13,
         "Partner": "New York-New York",
         "OfferID": 34061
     },
@@ -2803,7 +2795,7 @@
         "Name": "2-for-1 Brunch Buffet",
         "Price": 75000,
         "Description": "Enjoy a 2-for-1 Brunch Buffet at Luxor!",
-        "Stock": 86,
+        "Stock": 65,
         "Partner": "Luxor",
         "OfferID": 33870
     },
@@ -2819,7 +2811,7 @@
         "Name": "BOGO 50% Off to KA",
         "Price": 75000,
         "Description": "Enjoy 50% off tickets to KA! Valid on select dates for categories B,C and D.",
-        "Stock": 145,
+        "Stock": 144,
         "Partner": "MGM Grand LV",
         "OfferID": 33671
     },
@@ -2827,7 +2819,7 @@
         "Name": "BOGO Free to KA",
         "Price": 75000,
         "Description": "50% Off Tickets to KÀ 2024 with the purchase of two (2) premium tickets. Offer available in categories B, C \u0026 D.",
-        "Stock": 135,
+        "Stock": 132,
         "Partner": "MGM Grand LV",
         "OfferID": 33682
     },
@@ -2843,7 +2835,7 @@
         "Name": "One Complimentary Night!",
         "Price": 75000,
         "Description": "Enjoy one complimentary night at Borgata, Monday - Thursday!",
-        "Stock": 15,
+        "Stock": 16,
         "Partner": "Atlantic City NJ",
         "OfferID": 33333
     },
@@ -2851,7 +2843,7 @@
         "Name": "One Complimentary Night!",
         "Price": 75000,
         "Description": "Enjoy one complimentary night at Excalibur!",
-        "Stock": 84,
+        "Stock": 81,
         "Partner": "Excalibur",
         "OfferID": 33212
     },
@@ -2867,7 +2859,7 @@
         "Name": "One Complimentary Night!",
         "Price": 75000,
         "Description": "Enjoy one complimentary night at New York-New York Casino.",
-        "Stock": 74,
+        "Stock": 69,
         "Partner": "New York-New York",
         "OfferID": 33197
     },
@@ -2891,7 +2883,7 @@
         "Name": "$100 FP + Room at Park",
         "Price": 100000,
         "Description": "Enjoy your stay at Park MGM with $100 in FREEPLAY!",
-        "Stock": 43,
+        "Stock": 37,
         "Partner": "Park MGM",
         "OfferID": 34245
     },
@@ -2899,7 +2891,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Spin and win with $100 in FREEPLAY at Aria Resort and Casino.",
-        "Stock": 95,
+        "Stock": 94,
         "Partner": "ARIA",
         "OfferID": 33812
     },
@@ -2907,7 +2899,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Enjoy $100 in FREEPLAY at Bellagio",
-        "Stock": 96,
+        "Stock": 93,
         "Partner": "Bellagio",
         "OfferID": 33828
     },
@@ -2915,7 +2907,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Enjoy $100 in FREEPLAY at Excalibur Resort and Casino when you book a minimum three night paid stay.",
-        "Stock": 63,
+        "Stock": 58,
         "Partner": "Excalibur",
         "OfferID": 34133
     },
@@ -2923,7 +2915,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Enjoy $100 in FREEPLAY with a minimum three night paid stay at Luxor.",
-        "Stock": 88,
+        "Stock": 86,
         "Partner": "Luxor",
         "OfferID": 33836
     },
@@ -2931,7 +2923,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Enjoy $100 in FREEPLAY at MGM Grand Resort and Casino",
-        "Stock": 29,
+        "Stock": 22,
         "Partner": "MGM Grand LV",
         "OfferID": 33789
     },
@@ -2939,7 +2931,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Receive $100 in FREEPLAY when you book a minimum three-night paid stay at Mandalay Bay Resort \u0026 Casino.",
-        "Stock": 96,
+        "Stock": 95,
         "Partner": "Mandalay Bay",
         "OfferID": 33837
     },
@@ -2947,7 +2939,7 @@
         "Name": "$100 in FREEPLAY",
         "Price": 100000,
         "Description": "Enjoy $100 in FREEPLAY at New York - New York Resort and Casino.",
-        "Stock": 95,
+        "Stock": 96,
         "Partner": "New York-New York",
         "OfferID": 33809
     },
@@ -2955,7 +2947,7 @@
         "Name": "$50 FREEplay",
         "Price": 100000,
         "Description": "Grab a myVIP EXCLUSIVE $50 FREEplay and test your luck on our wide assortment of casino slot machines in San Diego.",
-        "Stock": 8,
+        "Stock": 2,
         "Partner": "El Cajon, CA",
         "OfferID": 34084
     },
@@ -3019,7 +3011,7 @@
         "Name": "myVIP Homecoming Dance",
         "Price": 100000,
         "Description": "Get ready to cut loose and dress for the occasion: join myVIP for an evening of nostalgia at our 1984 Homecoming Dance! Dress up in your best 80's homecoming attire and get ready to mingle, dance, enjoy light bites, and much more on September 26, 2024, in Las Vegas.",
-        "Stock": 85,
+        "Stock": 75,
         "Partner": "myEVENTS",
         "OfferID": 34251
     },
@@ -3051,7 +3043,7 @@
         "Name": "One Complimentary Night!",
         "Price": 125000,
         "Description": "Enjoy a one night complimentary stay at Mandalay Bay Resort and Casino.",
-        "Stock": 70,
+        "Stock": 67,
         "Partner": "Mandalay Bay",
         "OfferID": 33208
     },
@@ -3059,7 +3051,7 @@
         "Name": "One Complimentary Night!",
         "Price": 125000,
         "Description": "Enjoy one complimentary night at Park MGM!",
-        "Stock": 74,
+        "Stock": 72,
         "Partner": "Park MGM",
         "OfferID": 33192
     },
@@ -3067,7 +3059,7 @@
         "Name": "Cruise $150 in FREEPLAY",
         "Price": 140000,
         "Description": "This reward entitles you to a $150 FREEPLAY, with the purchase of a Royal Caribbean cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 20,
+        "Stock": 17,
         "Partner": "Any Sailing",
         "OfferID": 33265
     },
@@ -3107,7 +3099,7 @@
         "Name": "$150 in FREEPLAY",
         "Price": 200000,
         "Description": "Enjoy $150 FREEPLAY when you book a minimum three-night paid stay at Mandalay Bay Resort and Casino.",
-        "Stock": 48,
+        "Stock": 46,
         "Partner": "Mandalay Bay",
         "OfferID": 33670
     },
@@ -3131,7 +3123,7 @@
         "Name": "$150.00 FREEPLAY",
         "Price": 300000,
         "Description": "Snag this one to receive $150 in FREEPLAY® at Bellagio Las Vegas",
-        "Stock": 42,
+        "Stock": 44,
         "Partner": "Bellagio",
         "OfferID": 34070
     },
