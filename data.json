@@ -19,7 +19,7 @@
         "Name": "Complimentary Guidebook",
         "Price": 1000,
         "Description": "Enjoy a complimentary guidebook with the purchase of a regular priced ticket at \nSEA LIFE Arizona Aquarium!\n\nExplore 26,000 square feet of marine wonders at SEA LIFE Arizona. Discover thousands of aquatic creatures, interactive touch pools, and a 360° ocean tunnel!",
-        "Stock": 25,
+        "Stock": 24,
         "Partner": "SEA LIFE Arizona",
         "OfferID": 36012
     },
@@ -27,7 +27,7 @@
         "Name": "Free Taco",
         "Price": 1000,
         "Description": "Enjoy One Free Taco at MGM National Harbor Diablo's Cantina",
-        "Stock": 30,
+        "Stock": 29,
         "Partner": "MGM National Harbor",
         "OfferID": 33667
     },
@@ -51,7 +51,7 @@
         "Name": "35% Off Admission",
         "Price": 1500,
         "Description": "Enjoy 35% off one admission ticket to Madame Tussauds Nashville!\n\nExperience the ultimate music celebration at Madame Tussauds Nashville. This iconic wax museum honors America's musical legends, inviting you to get up close with your favorite stars. Join a multi-sensory journey through Nashville's rich musical history, featuring lifelike figures from country, rock, pop, jazz, and blues.",
-        "Stock": 22,
+        "Stock": 21,
         "Partner": "Madame Tussauds Nashville",
         "OfferID": 36008
     },
@@ -179,7 +179,7 @@
         "Name": "BOGO Tour w Admission",
         "Price": 5000,
         "Description": "Purchase General Admission and enjoy a BOGO Daytime Guided Tour at The Neon Museum in Las Vegas!",
-        "Stock": 84,
+        "Stock": 82,
         "Partner": "The Neon Museum",
         "OfferID": 36600
     },
@@ -339,7 +339,7 @@
         "Name": "£100 Welcome Bonus (UK)",
         "Price": 5000,
         "Description": "Exclusive £100 Welcome Bonus at the Hippodrome's Online Casino. Reserved exclusively for new Hippodrome Online customers in the UK customers only. 18+ | BeGambleAware.org",
-        "Stock": 194,
+        "Stock": 193,
         "Partner": "London UK",
         "OfferID": 23454
     },
@@ -491,7 +491,7 @@
         "Name": "$20 Public House Credit",
         "Price": 10000,
         "Description": "Enjoy $20 off your purchase of $40 or more at Public House at Luxor Hotel \u0026 Casino!",
-        "Stock": 175,
+        "Stock": 174,
         "Partner": "Luxor",
         "OfferID": 36375
     },
@@ -715,7 +715,7 @@
         "Name": "$20 Off Valley of Fire",
         "Price": 15000,
         "Description": "Unlock $20 off Gray Line Las Vegas' newest and most exclusive tour to the Valley of Fire!",
-        "Stock": 25,
+        "Stock": 23,
         "Partner": "Gray Line LV",
         "OfferID": 36203
     },
@@ -923,7 +923,7 @@
         "Name": "1 Order of Beignets",
         "Price": 20000,
         "Description": "Enjoy one complimentary order of beignets at Roasted Bean.",
-        "Stock": 75,
+        "Stock": 73,
         "Partner": "Biloxi",
         "OfferID": 36579
     },
@@ -931,7 +931,7 @@
         "Name": "2-for-1 Cocktail!",
         "Price": 20000,
         "Description": "Enjoy a 2-for-1 cocktail at Lobby Bar inside Excalibur.",
-        "Stock": 199,
+        "Stock": 198,
         "Partner": "Excalibur",
         "OfferID": 36578
     },
@@ -1147,7 +1147,7 @@
         "Name": "1 Cocktail at JIA",
         "Price": 25000,
         "Description": "Enjoy 1 specialty cocktail at JIA.",
-        "Stock": 50,
+        "Stock": 49,
         "Partner": "Biloxi",
         "OfferID": 36574
     },
@@ -1243,7 +1243,7 @@
         "Name": "Buy One Get One Gelato",
         "Price": 25000,
         "Description": "Enjoy two decadent servings of Gelato for the price of one!",
-        "Stock": 59,
+        "Stock": 58,
         "Partner": "Bellagio",
         "OfferID": 36508
     },
@@ -1299,7 +1299,7 @@
         "Name": "$20 Moneyline Credit",
         "Price": 30000,
         "Description": "Receive $20 off with a $40 purchase at Moneyline Pizza \u0026 Bar.",
-        "Stock": 33,
+        "Stock": 32,
         "Partner": "ARIA",
         "OfferID": 36505
     },
@@ -1371,7 +1371,7 @@
         "Name": "Comp Bottle Engraving",
         "Price": 30000,
         "Description": "Treat yourself this holiday season with a complimentary engraving (a $50 value!) on select premium spirits!",
-        "Stock": 99,
+        "Stock": 98,
         "Partner": "ReserveBar",
         "OfferID": 36480
     },
@@ -1443,7 +1443,7 @@
         "Name": "BOGO Maverick Show Ticket",
         "Price": 35000,
         "Description": "Buy one Maverick show ticket at regular price and get one free!",
-        "Stock": 43,
+        "Stock": 42,
         "Partner": "Plaza Casino",
         "OfferID": 36347
     },
@@ -1499,7 +1499,7 @@
         "Name": "$10 Dining Credit",
         "Price": 40000,
         "Description": "$10 Dining Credit at Borgata.",
-        "Stock": 15,
+        "Stock": 14,
         "Partner": "Atlantic City NJ",
         "OfferID": 36577
     },
@@ -1507,7 +1507,7 @@
         "Name": "$10 FREEPLAY",
         "Price": 40000,
         "Description": "Enjoy $10 in FREEPLAY at Borgata Casino.",
-        "Stock": 63,
+        "Stock": 62,
         "Partner": "Atlantic City NJ",
         "OfferID": 36288
     },
@@ -1531,7 +1531,7 @@
         "Name": "50% Off Two Tickets",
         "Price": 40000,
         "Description": "Get 50% off when you purchase two adult tickets to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 45,
+        "Stock": 44,
         "Partner": "Mandalay Bay",
         "OfferID": 36510
     },
@@ -1619,7 +1619,7 @@
         "Name": "50% Off Two Tickets",
         "Price": 50000,
         "Description": "Get ready to party with the hottest blokes in town, The Thunder from Down Under!",
-        "Stock": 22,
+        "Stock": 21,
         "Partner": "Excalibur",
         "OfferID": 36500
     },
@@ -1651,7 +1651,7 @@
         "Name": "MGM Slots Live WTOS",
         "Price": 50000,
         "Description": "Join this VIP Tourney to win your seat to the 2025 World Tournament of Slots! Where winners will have 1 in 500 chances to win $1,000,000!",
-        "Stock": 1382,
+        "Stock": 1381,
         "Partner": "Secret Tournaments",
         "OfferID": 36634
     },
@@ -1763,7 +1763,7 @@
         "Name": "BOGO Half-Off Vegas Views",
         "Price": 72000,
         "Description": "Fly high above the Las Vegas Strip on a breathtaking helicopter tour. Enjoy iconic landmarks with a “Buy One, Get One Half-Off” offer!",
-        "Stock": 15,
+        "Stock": 14,
         "Partner": "Maverick Helicopters",
         "OfferID": 36554
     },
@@ -1827,7 +1827,7 @@
         "Name": "One Complimentary Night!",
         "Price": 100000,
         "Description": "Enjoy one complimentary night at Excalibur!",
-        "Stock": 93,
+        "Stock": 94,
         "Partner": "Excalibur",
         "OfferID": 35970
     },
@@ -1851,7 +1851,7 @@
         "Name": "myVIP Player Meetup",
         "Price": 100000,
         "Description": "Join us for our myVIP Player Meet-Up at Beerhaus | New York, New York Hotel in Las Vegas on Thursday, June 26th from 4pm-6pm!",
-        "Stock": 2,
+        "Stock": 0,
         "Partner": "Beerhaus",
         "OfferID": 36424
     },
@@ -1923,7 +1923,7 @@
         "Name": "$50 FP+Room at MGM Grand",
         "Price": 125000,
         "Description": "Enjoy your stay at MGM Grand with $50 in FREEPLAY!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "MGM Grand LV",
         "OfferID": 36134
     },
@@ -1995,7 +1995,7 @@
         "Name": "$100 FP + RM at MGM Grand",
         "Price": 250000,
         "Description": "Enjoy your stay at MGM Grand with $100 in FREEPLAY!",
-        "Stock": 99,
+        "Stock": 98,
         "Partner": "MGM Grand LV",
         "OfferID": 36139
     },
@@ -2019,7 +2019,7 @@
         "Name": "$100 FP+RM Mandalay Bay",
         "Price": 250000,
         "Description": "Enjoy your stay at Mandalay Bay with $100 in FREEPLAY!",
-        "Stock": 97,
+        "Stock": 96,
         "Partner": "Mandalay Bay",
         "OfferID": 36144
     },
