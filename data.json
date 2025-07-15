@@ -27,7 +27,7 @@
         "Name": "Complimentary Guidebook",
         "Price": 1000,
         "Description": "Enjoy a complimentary guidebook with the purchase of a regular priced ticket at \nSEA LIFE Arizona Aquarium!\n\nExplore 26,000 square feet of marine wonders at SEA LIFE Arizona. Discover thousands of aquatic creatures, interactive touch pools, and a 360° ocean tunnel!",
-        "Stock": 24,
+        "Stock": 25,
         "Partner": "SEA LIFE Arizona",
         "OfferID": 36839
     },
@@ -363,7 +363,7 @@
         "Name": "£100 Welcome Bonus (UK)",
         "Price": 5000,
         "Description": "Exclusive £100 Welcome Bonus at the Hippodrome's Online Casino. Reserved exclusively for new Hippodrome Online customers in the UK customers only. 18+ | BeGambleAware.org",
-        "Stock": 290,
+        "Stock": 288,
         "Partner": "London UK",
         "OfferID": 36794
     },
@@ -387,7 +387,7 @@
         "Name": "20% Off Food Only",
         "Price": 6000,
         "Description": "Receive 20% off (Food only) the entire check at MGM Grand Bar + Grill.",
-        "Stock": 48,
+        "Stock": 47,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 36668
     },
@@ -395,7 +395,7 @@
         "Name": "Unlimited 1 Day Pass",
         "Price": 6250,
         "Description": "Unlimited One-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 424,
+        "Stock": 423,
         "Partner": "Las Vegas Monorail",
         "OfferID": 36865
     },
@@ -403,7 +403,7 @@
         "Name": "Free Shot at Centra",
         "Price": 6500,
         "Description": "Enjoy a complimentary shot at Centra Bar \u0026 Lounge with the purchase of a cocktail drink.",
-        "Stock": 74,
+        "Stock": 73,
         "Partner": "Luxor",
         "OfferID": 36380
     },
@@ -499,7 +499,7 @@
         "Name": "Unlimited 4 Day Pass",
         "Price": 9250,
         "Description": "Unlimited Four-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 13,
+        "Stock": 11,
         "Partner": "Las Vegas Monorail",
         "OfferID": 36869
     },
@@ -547,7 +547,7 @@
         "Name": "$25 off Spa Service",
         "Price": 10000,
         "Description": "Enjoy $25 off of any spa service of $50 or more in the Luxor Spa. Offer valid Monday - Sunday.",
-        "Stock": 73,
+        "Stock": 74,
         "Partner": "Luxor",
         "OfferID": 36381
     },
@@ -595,7 +595,7 @@
         "Name": "25% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 25% off room rates at Beau Rivage Resort \u0026 Casino!",
-        "Stock": 49,
+        "Stock": 50,
         "Partner": "Biloxi",
         "OfferID": 36576
     },
@@ -859,7 +859,7 @@
         "Name": "2-for-1 Cocktails",
         "Price": 15000,
         "Description": "Enjoy a complimentary specialty cocktail with the purchase of any specialty cocktail at BetMGM Sports Bar.",
-        "Stock": 25,
+        "Stock": 24,
         "Partner": "Park MGM",
         "OfferID": 36244
     },
@@ -971,7 +971,7 @@
         "Name": "Discover Pass + Free Day",
         "Price": 15000,
         "Description": "Need a ride? Buy one day of the Big Bus Las Vegas Discover Pass and get your next day free!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "Big Bus Tours LV",
         "OfferID": 36694
     },
@@ -1019,7 +1019,7 @@
         "Name": "Unlimited 7 Day Pass",
         "Price": 15000,
         "Description": "Unlimited Seven-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 12,
+        "Stock": 10,
         "Partner": "Las Vegas Monorail",
         "OfferID": 36871
     },
@@ -1144,18 +1144,10 @@
         "OfferID": 36693
     },
     {
-        "Name": "35% Off Mystere 9:30 Show",
-        "Price": 20000,
-        "Description": "Enjoy 35% off tickets to Mystere by Cirque du Soleil for 2025 9:30PM shows!",
-        "Stock": 98974,
-        "Partner": "Cirque du Soleil Mystere",
-        "OfferID": 36189
-    },
-    {
         "Name": "Appetizer On Us",
         "Price": 20000,
         "Description": "Enjoy a complimentary appetizer with purchase of an entrée.",
-        "Stock": 44,
+        "Stock": 43,
         "Partner": "Park MGM",
         "OfferID": 36550
     },
@@ -1587,7 +1579,7 @@
         "Name": "$100 in Onboard Credit",
         "Price": 35000,
         "Description": "This reward entitles you to a $100 Onboard Credit, with the purchase of a Royal Caribbean International cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 44,
+        "Stock": 43,
         "Partner": "Any Sailing",
         "OfferID": 36722
     },
@@ -1606,14 +1598,6 @@
         "Stock": 194,
         "Partner": "Excalibur",
         "OfferID": 36245
-    },
-    {
-        "Name": "25% Off Mystere 7PM Show",
-        "Price": 35000,
-        "Description": "Enjoy 25% off tickets to Mystere by Cirque du Soleil for 2025 7:00 PM shows!",
-        "Stock": 99517,
-        "Partner": "Cirque du Soleil Mystere",
-        "OfferID": 36190
     },
     {
         "Name": "Black Walnut",
@@ -1675,7 +1659,7 @@
         "Name": "$10 FREEPLAY",
         "Price": 40000,
         "Description": "Enjoy $10 in FREEPLAY at Borgata Casino.",
-        "Stock": 66,
+        "Stock": 65,
         "Partner": "Atlantic City NJ",
         "OfferID": 36593
     },
@@ -1683,7 +1667,7 @@
         "Name": "$15 Match Play",
         "Price": 40000,
         "Description": "Receive $15 Match Play on Blackjack at Park MGM!",
-        "Stock": 85,
+        "Stock": 84,
         "Partner": "Park MGM",
         "OfferID": 36743
     },
@@ -1699,7 +1683,7 @@
         "Name": "50% Off Two Tickets",
         "Price": 40000,
         "Description": "Get 50% off when you purchase two adult tickets to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 44,
+        "Stock": 42,
         "Partner": "Mandalay Bay",
         "OfferID": 36510
     },
@@ -1915,7 +1899,7 @@
         "Name": "BOGO Half-Off Vegas Views",
         "Price": 72000,
         "Description": "Fly high above the Las Vegas Strip on a breathtaking helicopter tour. Enjoy iconic landmarks with a “Buy One, Get One Half-Off” offer!",
-        "Stock": 12,
+        "Stock": 13,
         "Partner": "Maverick Helicopters",
         "OfferID": 36554
     },
@@ -1947,7 +1931,7 @@
         "Name": "50% off 2 tickets",
         "Price": 75000,
         "Description": "Enjoy 50% off two (2) standard tickets to Mad Apple at New York New York.",
-        "Stock": 146,
+        "Stock": 148,
         "Partner": "New York-New York",
         "OfferID": 36379
     },
@@ -1955,7 +1939,7 @@
         "Name": "50% Off One Dinner Buffet",
         "Price": 80000,
         "Description": "Enjoy 50% off one full-priced Dinner buffet at Borgata!",
-        "Stock": 11,
+        "Stock": 10,
         "Partner": "Atlantic City NJ",
         "OfferID": 36553
     },
@@ -1987,7 +1971,7 @@
         "Name": "BOGO Free to KA",
         "Price": 100000,
         "Description": "50% Off Tickets to KÀ 2024 - 2025 with the purchase of two (2) premium tickets. Offer available in categories B, C \u0026 D.",
-        "Stock": 146,
+        "Stock": 145,
         "Partner": "MGM Grand LV",
         "OfferID": 36595
     },
@@ -1995,7 +1979,7 @@
         "Name": "One Complimentary Night!",
         "Price": 100000,
         "Description": "Enjoy one complimentary night at Borgata Hotel and Casino.",
-        "Stock": 23,
+        "Stock": 22,
         "Partner": "Atlantic City NJ",
         "OfferID": 36584
     },
@@ -2019,7 +2003,7 @@
         "Name": "One Complimentary Night!",
         "Price": 100000,
         "Description": "Enjoy a one night complimentary stay at the iconic MGM Grand Resort and Casino.",
-        "Stock": 84,
+        "Stock": 83,
         "Partner": "MGM Grand LV",
         "OfferID": 36759
     },
@@ -2027,7 +2011,7 @@
         "Name": "One Complimentary Night!",
         "Price": 100000,
         "Description": "Enjoy a one night complimentary stay at Mandalay Bay Resort and Casino.",
-        "Stock": 69,
+        "Stock": 67,
         "Partner": "Mandalay Bay",
         "OfferID": 36761
     },
@@ -2035,7 +2019,7 @@
         "Name": "One Complimentary Night!",
         "Price": 100000,
         "Description": "Enjoy one complimentary night at New York-New York Casino.",
-        "Stock": 87,
+        "Stock": 86,
         "Partner": "New York-New York",
         "OfferID": 36745
     },
@@ -2123,7 +2107,7 @@
         "Name": "Cruise $150 in FREEPLAY",
         "Price": 140000,
         "Description": "This reward entitles you to a $150 FREEPLAY, with the purchase of a Royal Caribbean cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 18,
+        "Stock": 17,
         "Partner": "Any Sailing",
         "OfferID": 36719
     },
@@ -2131,7 +2115,7 @@
         "Name": "2-for-1 Brunch Buffet",
         "Price": 150000,
         "Description": "Enjoy one complimentary brunch buffet with the purchase of a full price brunch buffet, Monday \u0026 Tuesday Only, 8AM - 3PM.",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "MGM Grand LV",
         "OfferID": 36497
     },
@@ -2171,7 +2155,7 @@
         "Name": "$100 FP + RM at Luxor",
         "Price": 250000,
         "Description": "Enjoy your stay at Luxor with $100 in FREEPLAY!",
-        "Stock": 99,
+        "Stock": 100,
         "Partner": "Luxor",
         "OfferID": 36135
     },
@@ -2195,7 +2179,7 @@
         "Name": "$100 FP + Room at NYNY",
         "Price": 250000,
         "Description": "Enjoy your stay at New York-New York with $100 in FREEPLAY!",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "New York-New York",
         "OfferID": 36131
     },
@@ -2259,7 +2243,7 @@
         "Name": "3-Day RCCL Comp Cruise",
         "Price": 1000000,
         "Description": "Complimentary 3 Day Panama Cruise aboard the Serenade of the Seas, sailing from from Miami, Florida departing on 10/02/2025.",
-        "Stock": 16,
+        "Stock": 15,
         "Partner": "Royal Caribbean",
         "OfferID": 36910
     },
