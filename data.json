@@ -67,7 +67,7 @@
         "Name": "BOGO Pastry",
         "Price": 1800,
         "Description": "Savor the experience of purchasing one pastry item and indulge in receiving a second one, completely free, of equal or lesser value.",
-        "Stock": 24,
+        "Stock": 23,
         "Partner": "1228 Main in Downtown Las Vegas",
         "OfferID": 36400
     },
@@ -355,7 +355,7 @@
         "Name": "Dining Credit",
         "Price": 5400,
         "Description": "Enjoy $25 off the purchase of two entrées and beverages at Wolfgang Puck Bar \u0026 Grill in MGM Grand.",
-        "Stock": 36,
+        "Stock": 35,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 36669
     },
@@ -363,7 +363,7 @@
         "Name": "20% Off Food",
         "Price": 6000,
         "Description": "Enjoy 20% off (Food only) the entire check at 1228 Main Restaurant in Downtown Las Vegas!",
-        "Stock": 18,
+        "Stock": 17,
         "Partner": "1228 Main in Downtown Las Vegas",
         "OfferID": 36402
     },
@@ -379,7 +379,7 @@
         "Name": "Unlimited 1 Day Pass",
         "Price": 6250,
         "Description": "Unlimited One-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 24,
+        "Stock": 23,
         "Partner": "Las Vegas Monorail",
         "OfferID": 36865
     },
@@ -515,7 +515,7 @@
         "Name": "$20 Public House Credit",
         "Price": 10000,
         "Description": "Enjoy $20 off your purchase of $40 or more at Public House at Luxor Hotel \u0026 Casino!",
-        "Stock": 162,
+        "Stock": 161,
         "Partner": "Luxor",
         "OfferID": 36877
     },
@@ -579,7 +579,7 @@
         "Name": "2-for-1 Tom Size Beers",
         "Price": 10000,
         "Description": "Two 40oz Tom Size Beers for the Price of One",
-        "Stock": 51,
+        "Stock": 53,
         "Partner": "New York-New York",
         "OfferID": 36937
     },
@@ -771,7 +771,7 @@
         "Name": "SEA - 20% Off",
         "Price": 10000,
         "Description": "Enjoy 20% off tickets, Friday - Sunday, to the Museum of Illusions in Seattle, Washington!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "Museum of Illusions Seattle",
         "OfferID": 36708
     },
@@ -803,7 +803,7 @@
         "Name": "Comp Starter",
         "Price": 12500,
         "Description": "Enjoy a complimentary starter with purchase of an entrée at Best Friend, Roy Choi's Korean BBQ joint at Park MGM!  *Dine-in only",
-        "Stock": 33,
+        "Stock": 32,
         "Partner": "Park MGM",
         "OfferID": 36461
     },
@@ -1235,7 +1235,7 @@
         "Name": "$15 Off Game Play Topgolf",
         "Price": 25000,
         "Description": "Enjoy $15 Off Game Play at any Topgolf location! Come Play Around!\n\nTopgolf is 100% golf with clubs, balls, tees, turf, and a ball-picker-upper-cart thing. \n\nTopgolf is also 100% not golf, too, with loud music, giant targets, giant TVs, and hand-crafted food and drinks.",
-        "Stock": 6628,
+        "Stock": 6627,
         "Partner": "Topgolf",
         "OfferID": 36862
     },
@@ -1315,7 +1315,7 @@
         "Name": "25% Off Room Rates",
         "Price": 25000,
         "Description": "Enjoy 25% off room rates at Aria Resort and Casino!",
-        "Stock": 95,
+        "Stock": 94,
         "Partner": "ARIA",
         "OfferID": 36740
     },
@@ -1371,7 +1371,7 @@
         "Name": "BOGO Beer at NFI",
         "Price": 25000,
         "Description": "Buy one beer, get one free at Nine Fine Irishmen inside The New York New York!",
-        "Stock": 0,
+        "Stock": 2,
         "Partner": "New York-New York",
         "OfferID": 36875
     },
@@ -1451,7 +1451,7 @@
         "Name": "$20 Moneyline Credit",
         "Price": 30000,
         "Description": "Receive $20 off with a $40 purchase at Moneyline Pizza \u0026 Bar.",
-        "Stock": 37,
+        "Stock": 36,
         "Partner": "ARIA",
         "OfferID": 36505
     },
@@ -1515,7 +1515,7 @@
         "Name": "BOGO 50%Off Brunch Buffet",
         "Price": 30000,
         "Description": "Buy 1 Get 1 50% off Brunch Buffet",
-        "Stock": 81,
+        "Stock": 80,
         "Partner": "Bellagio",
         "OfferID": 36742
     },
@@ -1587,7 +1587,7 @@
         "Name": "25% Off Mystere 7PM Show",
         "Price": 35000,
         "Description": "Enjoy 25% off tickets to Mystere by Cirque du Soleil for 2025 7:00 PM shows!",
-        "Stock": 99515,
+        "Stock": 99514,
         "Partner": "Cirque du Soleil Mystere",
         "OfferID": 36980
     },
@@ -1691,7 +1691,7 @@
         "Name": "$25 Match Play",
         "Price": 50000,
         "Description": "Enjoy $25 in Match Play! Valid only for Blackjack Table Games at Park MGM.",
-        "Stock": 16,
+        "Stock": 15,
         "Partner": "Park MGM",
         "OfferID": 36248
     },
@@ -1707,7 +1707,7 @@
         "Name": "20% Off Standard Tickets",
         "Price": 50000,
         "Description": "Receive 20% off standard tickets for Blue Man Group.",
-        "Stock": 150,
+        "Stock": 149,
         "Partner": "Luxor",
         "OfferID": 36503
     },
@@ -1755,7 +1755,7 @@
         "Name": "POP! Slots WTOS",
         "Price": 50000,
         "Description": "Join this VIP Tourney to win your seat to the 2025 World Tournament of Slots! Where winners will have 1 in 500 chances to win $1,000,000!",
-        "Stock": 4170,
+        "Stock": 4153,
         "Partner": "Secret Tournaments",
         "OfferID": 36982
     },
@@ -1883,7 +1883,7 @@
         "Name": "2-for-1 Brunch Buffet",
         "Price": 75000,
         "Description": "Enjoy a 2-for-1 Brunch Buffet at Excalibur!",
-        "Stock": 62,
+        "Stock": 60,
         "Partner": "Excalibur",
         "OfferID": 36498
     },
@@ -1915,7 +1915,7 @@
         "Name": "One Ticket to T.O.K.",
         "Price": 80000,
         "Description": "Receive one (1) Standard complimentary ticket to Tournament of Kings at Excalibur.",
-        "Stock": 22,
+        "Stock": 23,
         "Partner": "Excalibur",
         "OfferID": 36499
     },
@@ -1963,7 +1963,7 @@
         "Name": "One Complimentary Night!",
         "Price": 100000,
         "Description": "Enjoy a one night complimentary stay at the iconic MGM Grand Resort and Casino.",
-        "Stock": 89,
+        "Stock": 88,
         "Partner": "MGM Grand LV",
         "OfferID": 36759
     },
@@ -2035,7 +2035,7 @@
         "Name": "$50 FP with Room Stay",
         "Price": 125000,
         "Description": "Enjoy your stay at Mandalay Bay with $50 in FREEPLAY!",
-        "Stock": 99,
+        "Stock": 98,
         "Partner": "Mandalay Bay",
         "OfferID": 36141
     },
@@ -2075,7 +2075,7 @@
         "Name": "2-for-1 Brunch Buffet",
         "Price": 150000,
         "Description": "Enjoy one complimentary brunch buffet with the purchase of a full price brunch buffet, Monday \u0026 Tuesday Only, 8AM - 3PM.",
-        "Stock": 82,
+        "Stock": 80,
         "Partner": "MGM Grand LV",
         "OfferID": 36497
     },
@@ -2147,7 +2147,7 @@
         "Name": "$100 FP with Room Stay",
         "Price": 250000,
         "Description": "Enjoy your stay at New York-New York with $100 in FREEPLAY!",
-        "Stock": 98,
+        "Stock": 99,
         "Partner": "New York-New York",
         "OfferID": 36131
     },
@@ -2203,7 +2203,7 @@
         "Name": "NCL Cruise from SD to MX",
         "Price": 1000000,
         "Description": "Enjoy a complimentary cruise from San Diego to the Mexican Riviera! Sail Dates: October 1 – December 31, 2025",
-        "Stock": 153,
+        "Stock": 152,
         "Partner": "San Diego",
         "OfferID": 36922
     },
