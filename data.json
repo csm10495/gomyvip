@@ -176,14 +176,6 @@
         "OfferID": 36035
     },
     {
-        "Name": "Comp Sundae",
-        "Price": 5000,
-        "Description": "Enjoy a complimentary Sundae with the purchase of any milkshake!",
-        "Stock": 91,
-        "Partner": "Hershey's Las Vegas",
-        "OfferID": 36863
-    },
-    {
         "Name": "Complimentary Appetizer",
         "Price": 5000,
         "Description": "Enjoy a complimentary Appetizer up to $25 with the purchase of another entrée of equal or greater value.",
@@ -323,7 +315,7 @@
         "Name": "Dining Credit",
         "Price": 5400,
         "Description": "Enjoy $25 off the purchase of two entrées and beverages at Wolfgang Puck Bar \u0026 Grill in MGM Grand.",
-        "Stock": 42,
+        "Stock": 41,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 36669
     },
@@ -355,7 +347,7 @@
         "Name": "Free Shot at Centra",
         "Price": 6500,
         "Description": "Enjoy a complimentary shot at Centra Bar \u0026 Lounge with the purchase of a cocktail drink.",
-        "Stock": 64,
+        "Stock": 66,
         "Partner": "Luxor",
         "OfferID": 36939
     },
@@ -374,14 +366,6 @@
         "Stock": 89,
         "Partner": "Lighthouse Immersive Las Vegas Exhibit",
         "OfferID": 36474
-    },
-    {
-        "Name": "Complimentary Photo",
-        "Price": 7000,
-        "Description": "Capture your thrilling helicopter experience with a complimentary photo—an unforgettable memory of your Las Vegas adventure!",
-        "Stock": 6,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37023
     },
     {
         "Name": "Unlimited 2 Day Pass",
@@ -475,7 +459,7 @@
         "Name": "$20 Public House Credit",
         "Price": 10000,
         "Description": "Enjoy $20 off your purchase of $40 or more at Public House at Luxor Hotel \u0026 Casino!",
-        "Stock": 140,
+        "Stock": 141,
         "Partner": "Luxor",
         "OfferID": 36877
     },
@@ -494,14 +478,6 @@
         "Stock": 0,
         "Partner": "Big Bus Tours Los Angeles",
         "OfferID": 36690
-    },
-    {
-        "Name": "$25 off Spa Service",
-        "Price": 10000,
-        "Description": "Enjoy $25 off of any spa service of $50 or more in the Luxor Spa. Offer valid Monday - Sunday.",
-        "Stock": 74,
-        "Partner": "Luxor",
-        "OfferID": 36940
     },
     {
         "Name": "1 Complimentary Cocktail",
@@ -528,14 +504,6 @@
         "OfferID": 36937
     },
     {
-        "Name": "25% Discount",
-        "Price": 10000,
-        "Description": "Enjoy 25% off selected items at The Shop!",
-        "Stock": 24,
-        "Partner": "MGM Northfield Park",
-        "OfferID": 36961
-    },
-    {
         "Name": "25% Off Room Rates",
         "Price": 10000,
         "Description": "Enjoy 25% off room rates at Beau Rivage Resort \u0026 Casino!",
@@ -555,7 +523,7 @@
         "Name": "30% Off GA Ticket",
         "Price": 10000,
         "Description": "Unlock 30% off General Admission to Paradox Museum!  Exit Reality \u0026 Enter Curiosity with unbelievable savings!",
-        "Stock": 2771,
+        "Stock": 2770,
         "Partner": "Paradox Museum Las Vegas",
         "OfferID": 37033
     },
@@ -579,7 +547,7 @@
         "Name": "50% off an Entrée",
         "Price": 10000,
         "Description": "Enjoy 50% off your entrée with the purchase of another entrée of equal or greater value and 2 beverages.",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 36670
     },
@@ -803,7 +771,7 @@
         "Name": "2 GA Tickets for $40",
         "Price": 15000,
         "Description": "Double the fun with 2 GA Tickets for only $40! Bring a friend and explore the extraordinary together!",
-        "Stock": 2035,
+        "Stock": 2034,
         "Partner": "Paradox Museum Las Vegas",
         "OfferID": 37038
     },
@@ -1179,7 +1147,7 @@
         "Name": "$15 Off Game Play LV",
         "Price": 25000,
         "Description": "Enjoy $15 Off Game Play at Topgolf Las Vegas!\n\nWelcome to Topgolf Las Vegas, the premier entertainment destination in Las Vegas, NV. Enjoy year-round comfort in our hitting bays with cooling fans in the summer and heated bays in the winter, all with HDTVs in every bay and throughout our sports bar and restaurant. Using our complimentary clubs or your own, take aim at the giant outfield targets and our high-tech balls will score themselves.",
-        "Stock": 12604,
+        "Stock": 12603,
         "Partner": "Topgolf Las Vegas",
         "OfferID": 36909
     },
@@ -1206,14 +1174,6 @@
         "Stock": 49,
         "Partner": "Mandalay Bay",
         "OfferID": 36712
-    },
-    {
-        "Name": "$30 Off Spirits Sitewide",
-        "Price": 25000,
-        "Description": "Save $30 on premium spirits for this year's holiday cheer! Make sure you're not showing up to any ugly sweater parties empty handed!",
-        "Stock": 99,
-        "Partner": "ReserveBar",
-        "OfferID": 37034
     },
     {
         "Name": "$40 Off Hawaiian Odyssey",
@@ -1371,7 +1331,7 @@
         "Name": "BOGO Beer at NFI",
         "Price": 25000,
         "Description": "Buy one beer, get one free at Nine Fine Irishmen inside The New York New York!",
-        "Stock": 2,
+        "Stock": 1,
         "Partner": "New York-New York",
         "OfferID": 36875
     },
@@ -1451,7 +1411,7 @@
         "Name": "$20 Moneyline Credit",
         "Price": 30000,
         "Description": "Receive $20 off with a $40 purchase at Moneyline Pizza \u0026 Bar.",
-        "Stock": 6,
+        "Stock": 5,
         "Partner": "ARIA",
         "OfferID": 37112
     },
@@ -1475,7 +1435,7 @@
         "Name": "1 Cocktail at Lobby Bar",
         "Price": 30000,
         "Description": "Receive one complimentary cocktail at Lobby Bar.",
-        "Stock": 25,
+        "Stock": 24,
         "Partner": "ARIA",
         "OfferID": 36730
     },
@@ -1523,17 +1483,9 @@
         "Name": "BOGO 50%Off Brunch Buffet",
         "Price": 30000,
         "Description": "Buy 1 Get 1 50% off Brunch Buffet",
-        "Stock": 48,
+        "Stock": 49,
         "Partner": "Bellagio",
         "OfferID": 36742
-    },
-    {
-        "Name": "Comp Bottle Engraving",
-        "Price": 30000,
-        "Description": "Treat yourself this holiday season with a complimentary engraving (a $50 value!) on select premium spirits!",
-        "Stock": 48,
-        "Partner": "ReserveBar",
-        "OfferID": 37032
     },
     {
         "Name": "Comp Room Upgrade",
@@ -1595,7 +1547,7 @@
         "Name": "$25 TAP Sports Bar Credit",
         "Price": 35000,
         "Description": "Enjoy $25 off your purchase of $50 or more at TAP Sports Bar at Excalibur Hotel \u0026 Casino!",
-        "Stock": 180,
+        "Stock": 179,
         "Partner": "Excalibur",
         "OfferID": 36999
     },
@@ -1691,7 +1643,7 @@
         "Name": "$15 Match Play",
         "Price": 40000,
         "Description": "Receive $15 Match Play on Blackjack at Park MGM!",
-        "Stock": 93,
+        "Stock": 92,
         "Partner": "Park MGM",
         "OfferID": 36743
     },
@@ -1707,7 +1659,7 @@
         "Name": "BOGO Admission",
         "Price": 40000,
         "Description": "Purchase full price adult admission and enjoy a complimentary adult admission at Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 38,
+        "Stock": 37,
         "Partner": "Madame Tussauds Las Vegas",
         "OfferID": 37187
     },
@@ -1755,7 +1707,7 @@
         "Name": "1 Comp Night MGM Grand",
         "Price": 50000,
         "Description": "Enjoy a one night complimentary stay at the iconic MGM Grand Resort and Casino.",
-        "Stock": 66,
+        "Stock": 64,
         "Partner": "MGM Grand LV",
         "OfferID": 36759
     },
@@ -1811,7 +1763,7 @@
         "Name": "1 Roller Coaster Pass",
         "Price": 50000,
         "Description": "Enjoy one complimentary roller coaster pass at New York-New York!",
-        "Stock": 44,
+        "Stock": 43,
         "Partner": "New York-New York",
         "OfferID": 37009
     },
@@ -2027,7 +1979,7 @@
         "Name": "One Ticket to T.O.K.",
         "Price": 80000,
         "Description": "Receive one (1) Standard complimentary ticket to Tournament of Kings at Excalibur.",
-        "Stock": 1,
+        "Stock": 0,
         "Partner": "Excalibur",
         "OfferID": 37015
     },
@@ -2131,7 +2083,7 @@
         "Name": "2-for-1 Brunch Buffet",
         "Price": 150000,
         "Description": "Enjoy one complimentary brunch buffet with the purchase of a full price brunch buffet, Monday \u0026 Tuesday Only, 8AM - 3PM.",
-        "Stock": 57,
+        "Stock": 56,
         "Partner": "MGM Grand LV",
         "OfferID": 37008
     },
@@ -2155,7 +2107,7 @@
         "Name": "$100 FP with Room Stay",
         "Price": 250000,
         "Description": "Enjoy your stay at ARIA with $100 in FREEPLAY!",
-        "Stock": 98,
+        "Stock": 99,
         "Partner": "ARIA",
         "OfferID": 36142
     },
@@ -2179,7 +2131,7 @@
         "Name": "$100 FP with Room Stay",
         "Price": 250000,
         "Description": "Enjoy your stay at Luxor with $100 in FREEPLAY!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "Luxor",
         "OfferID": 36135
     },
