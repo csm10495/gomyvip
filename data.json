@@ -11,17 +11,9 @@
         "Name": "3 Months Spotify Premium",
         "Price": 1000,
         "Description": "Jam out to your favorite tracks while playing your favorite games! New users can enjoy 3 Months of Spotify Premium with a new account.",
-        "Stock": 482854,
+        "Stock": 482842,
         "Partner": "Spotify Premium",
         "OfferID": 37768
-    },
-    {
-        "Name": "Complimentary Guidebook",
-        "Price": 1000,
-        "Description": "Enjoy a complimentary guidebook when you purchase 1 adult admission at full price at Madame Tussauds Nashville!\n\nExperience the ultimate music celebration at Madame Tussauds Nashville. This iconic wax museum honors America's musical legends, inviting you to get up close with your favorite stars. Join a multi-sensory journey through Nashville's rich musical history, featuring lifelike figures from country, rock, pop, jazz, and blues.",
-        "Stock": 39,
-        "Partner": "Madame Tussauds Nashville",
-        "OfferID": 37107
     },
     {
         "Name": "Free Taco",
@@ -40,36 +32,12 @@
         "OfferID": 37027
     },
     {
-        "Name": "35% Off Admission",
-        "Price": 1500,
-        "Description": "Enjoy 35% off one admission ticket to Madame Tussauds Nashville!\n\nExperience the ultimate music celebration at Madame Tussauds Nashville. This iconic wax museum honors America's musical legends, inviting you to get up close with your favorite stars. Join a multi-sensory journey through Nashville's rich musical history, featuring lifelike figures from country, rock, pop, jazz, and blues.",
-        "Stock": 50,
-        "Partner": "Madame Tussauds Nashville",
-        "OfferID": 37603
-    },
-    {
         "Name": "BOGO Pastry",
         "Price": 1800,
         "Description": "Savor the experience of purchasing one pastry item and indulge in receiving a second one, completely free, of equal or lesser value.",
         "Stock": 25,
         "Partner": "1228 Main in Downtown Las Vegas",
         "OfferID": 37215
-    },
-    {
-        "Name": "$5 Off Thurs-Sun Ticket",
-        "Price": 2500,
-        "Description": "Enjoy $5 off your admission ticket Thursday through Sunday at Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 100,
-        "Partner": "Madame Tussauds Las Vegas",
-        "OfferID": 37691
-    },
-    {
-        "Name": "$5 Off Ticket",
-        "Price": 2500,
-        "Description": "Enjoy $5 off a regular ticket purchase to explore SEA LIFE Arizona Aquarium!\n\nExplore 26,000 square feet of marine wonders at SEA LIFE Arizona. Discover thousands of aquatic creatures, interactive touch pools, and a 360° ocean tunnel!",
-        "Stock": 50,
-        "Partner": "SEA LIFE Arizona",
-        "OfferID": 37763
     },
     {
         "Name": "Comp Cinnamon Roll",
@@ -80,14 +48,6 @@
         "OfferID": 37319
     },
     {
-        "Name": "Complimentary Guidebook",
-        "Price": 2500,
-        "Description": "Enjoy a complimentary guidebook when you purchase 1 adult admission at full price at Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 100,
-        "Partner": "Madame Tussauds Las Vegas",
-        "OfferID": 37667
-    },
-    {
         "Name": "Signature Wine",
         "Price": 3000,
         "Description": "Enjoy a complimentary bottle of Wolfgang Puck’s signature wine with the purchase of 2 entrées at Wolfgang Puck Bar + Grill!",
@@ -96,52 +56,12 @@
         "OfferID": 37320
     },
     {
-        "Name": "$25 off Hoover Dam Tour",
-        "Price": 5000,
-        "Description": "Enjoy $25 (retail price of $86) off Hoover Dam Tour Ticket on the Hoover Dam PM Express Tour.",
-        "Stock": 20,
-        "Partner": "Gray Line LV",
-        "OfferID": 37544
-    },
-    {
         "Name": "$5.00 Off at The Buffet",
         "Price": 5000,
         "Description": "Enjoy a $5.00 Off Discount at The Buffet!",
         "Stock": 49,
         "Partner": "MGM Northfield Park",
         "OfferID": 37709
-    },
-    {
-        "Name": "20% off Adult Night Tour",
-        "Price": 5000,
-        "Description": "Las Vegas's famous sights, by night on your favorite double decker bus.",
-        "Stock": 40,
-        "Partner": "Big Bus Tours LV",
-        "OfferID": 37702
-    },
-    {
-        "Name": "20% off Celeb Homes Tour",
-        "Price": 5000,
-        "Description": "Get a sneak peek behind the scenes with 20% off a Celebrity Home Tour in Los Angeles!",
-        "Stock": 0,
-        "Partner": "Big Bus Tours Los Angeles",
-        "OfferID": 37704
-    },
-    {
-        "Name": "25% off Sunset Tour",
-        "Price": 5000,
-        "Description": "Enjoy a 90 minute panoramic sunset tour with a 30 minute stop at the Griffith Observatory!",
-        "Stock": 0,
-        "Partner": "Big Bus Tours Los Angeles",
-        "OfferID": 37546
-    },
-    {
-        "Name": "30% off merchandise",
-        "Price": 5000,
-        "Description": "Enjoy 30% off merhcandise and photo at FlyOver Las Vegas!",
-        "Stock": 150,
-        "Partner": "FlyOver Las Vegas",
-        "OfferID": 37607
     },
     {
         "Name": "5 Entries- Tap into Tech",
@@ -214,14 +134,6 @@
         "Stock": 0,
         "Partner": "EVEN Hotels",
         "OfferID": 37157
-    },
-    {
-        "Name": "Free Drink",
-        "Price": 5000,
-        "Description": "Buy 1 adult ticket, receive 1 free drink at the bar! Choose between experincing the Wonders of the American West, Iceland or the Candian Rockies and a specialty cocktail!",
-        "Stock": 98,
-        "Partner": "FlyOver Las Vegas",
-        "OfferID": 37606
     },
     {
         "Name": "Garner an IHG Hotel",
@@ -323,7 +235,7 @@
         "Name": "Dining Credit",
         "Price": 5400,
         "Description": "Enjoy $25 off the purchase of two entrées and beverages at Wolfgang Puck Bar \u0026 Grill in MGM Grand.",
-        "Stock": 42,
+        "Stock": 43,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 37321
     },
@@ -360,14 +272,6 @@
         "OfferID": 37712
     },
     {
-        "Name": "Comp Children's Ticket",
-        "Price": 7000,
-        "Description": "Enjoy a complimentary children's ticket to Lighthouse Immersive in Las Vegas!",
-        "Stock": 90,
-        "Partner": "Lighthouse Immersive Las Vegas Exhibit",
-        "OfferID": 37435
-    },
-    {
         "Name": "Complimentary Photo",
         "Price": 7000,
         "Description": "Capture your thrilling helicopter experience with a complimentary photo—an unforgettable memory of your Las Vegas adventure!",
@@ -392,34 +296,10 @@
         "OfferID": 37746
     },
     {
-        "Name": "20%  off Luxury West Rim",
-        "Price": 7500,
-        "Description": "Enjoy 20% off a Grand Canyon West Rim Tour in a Mercedes Sprinter!",
-        "Stock": 15,
-        "Partner": "Gray Line LV",
-        "OfferID": 37552
-    },
-    {
-        "Name": "25% Off Retail Boutique",
-        "Price": 7500,
-        "Description": "Unlock 25% off at Paradox Museum Retail Boutique! Discover unique souvenirs and gifts that defy reality. Shop now \u0026 Save!",
-        "Stock": 40,
-        "Partner": "Paradox Museum Las Vegas",
-        "OfferID": 37604
-    },
-    {
-        "Name": "40% off a Single Ride",
-        "Price": 7500,
-        "Description": "Enjoy 40% off a single ride at FlyOver. Chose between experincing the Wonders of the American West, Iceland or the Candian Rockies!",
-        "Stock": 85,
-        "Partner": "FlyOver Las Vegas",
-        "OfferID": 37605
-    },
-    {
         "Name": "Free Entrée with Purchase",
         "Price": 7500,
         "Description": "Enjoy a complimentary entrée up to $45 with the purchase of another entrée of equal or greater value.",
-        "Stock": 22,
+        "Stock": 21,
         "Partner": "1228 Main in Downtown Las Vegas",
         "OfferID": 36931
     },
@@ -443,23 +323,15 @@
         "Name": "Unlimited 3 Day Pass",
         "Price": 8250,
         "Description": "Unlimited Three-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 17,
+        "Stock": 16,
         "Partner": "Las Vegas Monorail",
         "OfferID": 37671
-    },
-    {
-        "Name": "BOGO Daytime Admission",
-        "Price": 9000,
-        "Description": "Purchase General Admission and enjoy a BOGO Daytime Admission at The Neon Museum in Las Vegas!",
-        "Stock": 94,
-        "Partner": "The Neon Museum",
-        "OfferID": 37685
     },
     {
         "Name": "Unlimited 4 Day Pass",
         "Price": 9250,
         "Description": "Unlimited Four-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 22,
+        "Stock": 21,
         "Partner": "Las Vegas Monorail",
         "OfferID": 37672
     },
@@ -475,7 +347,7 @@
         "Name": "$20 Public House Credit",
         "Price": 10000,
         "Description": "Enjoy $20 off your purchase of $40 or more at Public House at Luxor Hotel \u0026 Casino!",
-        "Stock": 181,
+        "Stock": 179,
         "Partner": "Luxor",
         "OfferID": 37640
     },
@@ -486,22 +358,6 @@
         "Stock": 97,
         "Partner": "Park MGM",
         "OfferID": 37122
-    },
-    {
-        "Name": "$20 off Double Decker Bus",
-        "Price": 10000,
-        "Description": "Explore the magic of LA from elite Hollywood homes to world-famous beaches with $20 off a Double Decker Big Bus Tour!",
-        "Stock": 0,
-        "Partner": "Big Bus Tours Los Angeles",
-        "OfferID": 37705
-    },
-    {
-        "Name": "$20 off TMZ Selfie Tour",
-        "Price": 10000,
-        "Description": "See the sights with TMZ experts with $20 off the TMZ Selfie Tour!",
-        "Stock": 0,
-        "Partner": "Big Bus Tours Los Angeles",
-        "OfferID": 37547
     },
     {
         "Name": "$25 off Spa Service",
@@ -544,30 +400,6 @@
         "OfferID": 37698
     },
     {
-        "Name": "30% Off GA Ticket",
-        "Price": 10000,
-        "Description": "Unlock 30% off General Admission to Paradox Museum!  Exit Reality \u0026 Enter Curiosity with unbelievable savings!",
-        "Stock": 1960,
-        "Partner": "Paradox Museum Las Vegas",
-        "OfferID": 37766
-    },
-    {
-        "Name": "300 FREE Game Credits",
-        "Price": 10000,
-        "Description": "Enjoy 300 complimentary game credits with a VIP Package Purchase.",
-        "Stock": 0,
-        "Partner": "Play Playground",
-        "OfferID": 37707
-    },
-    {
-        "Name": "40% Off VIP \u0026 Premium",
-        "Price": 10000,
-        "Description": "Unlock 40% off VIP \u0026 Premium for up to 6 tickets at Lighthouse Immersive Las Vegas. Step into The New Immersive Van Gogh like never before!",
-        "Stock": 484,
-        "Partner": "Lighthouse Immersive Las Vegas Exhibit",
-        "OfferID": 37595
-    },
-    {
         "Name": "50% Off Maz Jobani -Oct 4",
         "Price": 10000,
         "Description": "50% Off Maz Jobani Live on October 4 , 2025 in The Theatre at MGM National Harbor!",
@@ -579,25 +411,9 @@
         "Name": "50% off an Entrée",
         "Price": 10000,
         "Description": "Enjoy 50% off your entrée with the purchase of another entrée of equal or greater value and 2 beverages.",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "Wolfgang Puck Bar + Grill ",
         "OfferID": 37322
-    },
-    {
-        "Name": "75 FREE Game Credits",
-        "Price": 10000,
-        "Description": "Enjoy 75 Complimentary Game Credits with the purchase of a GA Pass.",
-        "Stock": 0,
-        "Partner": "Play Playground",
-        "OfferID": 37555
-    },
-    {
-        "Name": "ATL - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Atlanta, Georgia!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Atlanta",
-        "OfferID": 37741
     },
     {
         "Name": "BOGO Beer at TAP!",
@@ -619,7 +435,7 @@
         "Name": "BOGO Slice of Pizza",
         "Price": 10000,
         "Description": "Enjoy a complimentary slice of pizza when you purchase one of equal or lesser value!",
-        "Stock": 47,
+        "Stock": 46,
         "Partner": "Plaza Casino",
         "OfferID": 37620
     },
@@ -627,7 +443,7 @@
         "Name": "BOGO Specialty Cocktail",
         "Price": 10000,
         "Description": "Enjoy a complimentary cocktail at the Sand Dollar Downtown when you purchase one of equal or greater value!",
-        "Stock": 49,
+        "Stock": 48,
         "Partner": "Plaza Casino",
         "OfferID": 37166
     },
@@ -640,60 +456,12 @@
         "OfferID": 37172
     },
     {
-        "Name": "Charlotte - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Charlotte, North Carolina!",
-        "Stock": 10,
-        "Partner": "Museum of Illusions Charlotte",
-        "OfferID": 37736
-    },
-    {
-        "Name": "Cleveland - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Cleveland, Ohio!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Cleveland\n",
-        "OfferID": 37730
-    },
-    {
         "Name": "Complimentary Coffee",
         "Price": 10000,
         "Description": "Enjoy a complimentary cup of coffee at The Roasted Bean!",
         "Stock": 24,
         "Partner": "MGM Grand Detroit",
         "OfferID": 37750
-    },
-    {
-        "Name": "Denver - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Denver, Colorado!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Denver",
-        "OfferID": 37731
-    },
-    {
-        "Name": "Las Vegas - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Las Vegas, Nevada!",
-        "Stock": 8,
-        "Partner": "Museum of Illusions Las Vegas",
-        "OfferID": 37745
-    },
-    {
-        "Name": "MPLS - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Minneapolis, Minnesota!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Minneapolis\n",
-        "OfferID": 37729
-    },
-    {
-        "Name": "NY - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in New York City!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions New York",
-        "OfferID": 37740
     },
     {
         "Name": "Public House Appetizer",
@@ -704,26 +472,10 @@
         "OfferID": 37116
     },
     {
-        "Name": "SEA - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in Seattle, Washington!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Seattle",
-        "OfferID": 37737
-    },
-    {
-        "Name": "STL - 20% Off",
-        "Price": 10000,
-        "Description": "Enjoy 20% off tickets to the Museum of Illusions in St. Louis, Missouri!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions St. Louis",
-        "OfferID": 37733
-    },
-    {
         "Name": "Unlimited 5 Day Pass",
         "Price": 10250,
         "Description": "Unlimited Five-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 20,
+        "Stock": 19,
         "Partner": "Las Vegas Monorail",
         "OfferID": 37673
     },
@@ -734,14 +486,6 @@
         "Stock": 25,
         "Partner": "1228 Main in Downtown Las Vegas",
         "OfferID": 37216
-    },
-    {
-        "Name": "$25 Off Sunset N\u0026N",
-        "Price": 11000,
-        "Description": "Enjoy the “Best of Las Vegas” on this one-of-a-kind aerial flight featuring breathtaking views of Red Rock Canyon, the Las Vegas Strip and a landing at a private vista during sunset with champagne.",
-        "Stock": 20,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37020
     },
     {
         "Name": "Comp Starter",
@@ -760,14 +504,6 @@
         "OfferID": 37714
     },
     {
-        "Name": "$20 Off Valley of Fire",
-        "Price": 15000,
-        "Description": "Unlock $20 off Gray Line Las Vegas' newest and most exclusive tour to the Valley of Fire!",
-        "Stock": 25,
-        "Partner": "Gray Line LV",
-        "OfferID": 37543
-    },
-    {
         "Name": "$25 Off Vegas Victory Lap",
         "Price": 15000,
         "Description": "Fly over the Vegas Grand Prix circuit and iconic Strip landmarks on this thrilling helicopter tour including a champagne toast!",
@@ -776,36 +512,12 @@
         "OfferID": 37689
     },
     {
-        "Name": "$30 off 2 day Pass + Tour",
-        "Price": 15000,
-        "Description": "Enjoy $30 off the ultimate LA sightseeing tour through famous Los Angeles neighborhoods + a VIP TCL Chinese Theatre tour!",
-        "Stock": 0,
-        "Partner": "Big Bus Tours Los Angeles",
-        "OfferID": 37706
-    },
-    {
-        "Name": "$40 off South Rim Tour",
-        "Price": 15000,
-        "Description": "Enjoy $40 off a relaxing motorcoach tour from Las Vegas to the South Rim of the Grand Canyon!",
-        "Stock": 15,
-        "Partner": "Gray Line LV",
-        "OfferID": 37550
-    },
-    {
         "Name": "1 Complimentary Mimosa!",
         "Price": 15000,
         "Description": "Enjoy a complimentary mimosa with purchase of 1 entree at NETFLIX BITES!",
         "Stock": 198,
         "Partner": "MGM Grand LV",
         "OfferID": 37648
-    },
-    {
-        "Name": "2 GA Tickets for $40",
-        "Price": 15000,
-        "Description": "Double the fun with 2 GA Tickets for only $40! Bring a friend and explore the extraordinary together!",
-        "Stock": 1795,
-        "Partner": "Paradox Museum Las Vegas",
-        "OfferID": 37767
     },
     {
         "Name": "2-for-1 Cocktails",
@@ -819,7 +531,7 @@
         "Name": "2-for-1 Cocktails",
         "Price": 15000,
         "Description": "Enjoy a complimentary specialty cocktail with the purchase of any specialty cocktail at Mama Rabbit.",
-        "Stock": 24,
+        "Stock": 25,
         "Partner": "Park MGM",
         "OfferID": 37638
     },
@@ -832,34 +544,10 @@
         "OfferID": 37557
     },
     {
-        "Name": "ATL- 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in Atlanta, Georgia!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Atlanta",
-        "OfferID": 37739
-    },
-    {
-        "Name": "ATL- 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 20% off adult tickets to the Museum of Illusions in Charlotte, North Carolina!",
-        "Stock": 10,
-        "Partner": "Museum of Illusions Charlotte",
-        "OfferID": 37743
-    },
-    {
-        "Name": "BOGO Admission",
-        "Price": 15000,
-        "Description": "Enjoy complimentary admission with the purchase of regular priced admission to Madame Tussauds Nashville!\n\nExperience the ultimate music celebration at Madame Tussauds Nashville. This iconic wax museum honors America's musical legends, inviting you to get up close with your favorite stars. Join a multi-sensory journey through Nashville's rich musical history, featuring lifelike figures from country, rock, pop, jazz, and blues.",
-        "Stock": 30,
-        "Partner": "Madame Tussauds Nashville",
-        "OfferID": 37666
-    },
-    {
         "Name": "BOGO Cocktails!",
         "Price": 15000,
         "Description": "Buy one cocktail, get one free at Lobby Bar!",
-        "Stock": 34,
+        "Stock": 35,
         "Partner": "MGM Grand LV",
         "OfferID": 37641
     },
@@ -867,17 +555,9 @@
         "Name": "BOGO Cocktails!",
         "Price": 15000,
         "Description": "Buy one cocktail and get one free at VICE VERSA Patio \u0026 Lounge.",
-        "Stock": 94,
+        "Stock": 95,
         "Partner": "Vdara",
         "OfferID": 37111
-    },
-    {
-        "Name": "BOGO Day Free",
-        "Price": 15000,
-        "Description": "Need a ride? Buy one day of the Big Bus Las Vegas Discover Pass and get your next day free!",
-        "Stock": 100,
-        "Partner": "Big Bus Tours LV",
-        "OfferID": 37554
     },
     {
         "Name": "BOGO Shot!",
@@ -888,14 +568,6 @@
         "OfferID": 37000
     },
     {
-        "Name": "BOGO Ticket",
-        "Price": 15000,
-        "Description": "Enjoy a complimentary ticket with the purchase of a regular priced ticket to explore SEA LIFE Arizona Aquarium!\n\nExplore 26,000 square feet of marine wonders at SEA LIFE Arizona. Discover thousands of aquatic creatures, interactive touch pools, and a 360° ocean tunnel!",
-        "Stock": 30,
-        "Partner": "SEA LIFE Arizona",
-        "OfferID": 37762
-    },
-    {
         "Name": "Breakfast Credit",
         "Price": 15000,
         "Description": "Indulge in a $25 Breakfast credit at Tempo by Hilton!",
@@ -904,18 +576,10 @@
         "OfferID": 36831
     },
     {
-        "Name": "CLE 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in Cleveland, Ohio!",
-        "Stock": 99,
-        "Partner": "Museum of Illusions Cleveland\n",
-        "OfferID": 37734
-    },
-    {
         "Name": "Comp Blue Bingo Pack",
         "Price": 15000,
         "Description": "Enjoy a complimentary blue bingo pack at the Plaza Hotel \u0026 Casino!",
-        "Stock": 46,
+        "Stock": 44,
         "Partner": "Plaza Casino",
         "OfferID": 36853
     },
@@ -926,38 +590,6 @@
         "Stock": 50,
         "Partner": "MGM National Harbor",
         "OfferID": 37753
-    },
-    {
-        "Name": "DEN- 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in Denver, Colorado!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Denver",
-        "OfferID": 37744
-    },
-    {
-        "Name": "LV- 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in Las Vegas, Nevada!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Las Vegas",
-        "OfferID": 37471
-    },
-    {
-        "Name": "MPLS - 25% Off + $20 Cred",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in Minneapolis, Minnesota!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Minneapolis\n",
-        "OfferID": 37742
-    },
-    {
-        "Name": "NY 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in New York City!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions New York",
-        "OfferID": 37738
     },
     {
         "Name": "Romeo \u0026 Juliet 10/18",
@@ -984,22 +616,6 @@
         "OfferID": 37827
     },
     {
-        "Name": "SEA- 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in Seattle, Washington!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions Seattle",
-        "OfferID": 37735
-    },
-    {
-        "Name": "STL 25% Off + $20 Credit",
-        "Price": 15000,
-        "Description": "Enjoy 25% off tickets and a $20 retail credit to the Museum of Illusions in St. Louis, Missouri!",
-        "Stock": 100,
-        "Partner": "Museum of Illusions St. Louis",
-        "OfferID": 37732
-    },
-    {
         "Name": "Unlimited 7 Day Pass",
         "Price": 15000,
         "Description": "Unlimited Seven-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
@@ -1016,52 +632,12 @@
         "OfferID": 36835
     },
     {
-        "Name": "40% off 2 Day Tour + more",
-        "Price": 17500,
-        "Description": "Enjoy 2 days of hop-on, hop-off Las Vegas sightseeing + a High Roller daytime pass. Discover all the top landmarks and attractions, hear fascinating facts and stories from our expert tour guides as well as see Las Vegas from the world's tallest observation wheel.",
-        "Stock": 100,
-        "Partner": "Big Bus Tours LV",
-        "OfferID": 37545
-    },
-    {
-        "Name": "$40 Off N\u0026N Daytime",
-        "Price": 18000,
-        "Description": "Enjoy the “Best of Las Vegas” on this one-of-a-kind aerial flight featuring breathtaking views of Red Rock Canyon, the Las Vegas Strip and a landing at a private vista.",
-        "Stock": 20,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37022
-    },
-    {
         "Name": "$100 Resort Credit",
         "Price": 20000,
         "Description": "Enjoy a $100 Resort credit per stay at Hilton Barbados Resort",
         "Stock": 100,
         "Partner": "Hilton Barbados",
         "OfferID": 36923
-    },
-    {
-        "Name": "$115 off West Rim Tour",
-        "Price": 20000,
-        "Description": "Enjoy $115 off (retail price of $241) a relaxing tour from Las Vegas to the West Rim of the Grand Canyon with a Hoover Dam photo stop!",
-        "Stock": 25,
-        "Partner": "Gray Line LV",
-        "OfferID": 37551
-    },
-    {
-        "Name": "$35 Off Hana Rainforest",
-        "Price": 20000,
-        "Description": "Save $35 on the Hana Rainforest Landing Excursion and experience breathtaking views of lush landscapes and cascading waterfalls!",
-        "Stock": 10,
-        "Partner": "Maui",
-        "OfferID": 36890
-    },
-    {
-        "Name": "$35 Off Molokai Voyage",
-        "Price": 20000,
-        "Description": "Looking for things to do in Hawaii? This Hawaiian helicopter tour lets you explore the beauty and scenery of two Hawaiian Islands.",
-        "Stock": 20,
-        "Partner": "Maui",
-        "OfferID": 36891
     },
     {
         "Name": "$50 Off NASCAR",
@@ -1112,14 +688,6 @@
         "OfferID": 37462
     },
     {
-        "Name": "25% Off Big Day Out",
-        "Price": 20000,
-        "Description": "Score 25% off a Big Bus pass with entry to Madame Tussauds and the High Roller—exclusive to myVIP!",
-        "Stock": 25,
-        "Partner": "Big Bus Tours LV",
-        "OfferID": 37553
-    },
-    {
         "Name": "25% Off Room Rates",
         "Price": 20000,
         "Description": "Enjoy 25% off room rates at Park MGM!",
@@ -1147,7 +715,7 @@
         "Name": "BOGO Gelato at Patisserie",
         "Price": 20000,
         "Description": "Enjoy 2-for-1 gelato at ARIA Patisserie.",
-        "Stock": 51,
+        "Stock": 50,
         "Partner": "ARIA",
         "OfferID": 37113
     },
@@ -1155,7 +723,7 @@
         "Name": "Bonus Entries Car Drawing",
         "Price": 20000,
         "Description": "Receive 50 Bonus Entries into our monthly car drawings. Get the chance to win!",
-        "Stock": 20,
+        "Stock": 19,
         "Partner": "MGM Springfield",
         "OfferID": 37693
     },
@@ -1171,7 +739,7 @@
         "Name": "Complimentary Appetizer",
         "Price": 20000,
         "Description": "Visit Ginger and receive a free appetizer with any purchase of an entrée.",
-        "Stock": 48,
+        "Stock": 49,
         "Partner": "MGM National Harbor",
         "OfferID": 37427
     },
@@ -1203,17 +771,9 @@
         "Name": "$10 Posh Burger Credit",
         "Price": 22000,
         "Description": "Receive $10 off with a $20 purchase at Posh Burger.",
-        "Stock": 28,
+        "Stock": 30,
         "Partner": "ARIA",
         "OfferID": 37114
-    },
-    {
-        "Name": "$25 Off Vegas Views",
-        "Price": 23000,
-        "Description": "Save $25 on a thrilling nighttime helicopter tour of the Las Vegas Strip, showcasing iconic landmarks from a luxurious ECO-Star.",
-        "Stock": 20,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37024
     },
     {
         "Name": "Comp 4th Night Free",
@@ -1222,30 +782,6 @@
         "Stock": 50,
         "Partner": "Tempo by Hilton New York Times Square ",
         "OfferID": 36830
-    },
-    {
-        "Name": "$15 Off Game Play LV",
-        "Price": 25000,
-        "Description": "Enjoy $15 Off Game Play at Topgolf Las Vegas!\n\nWelcome to Topgolf Las Vegas, the premier entertainment destination in Las Vegas, NV. Enjoy year-round comfort in our hitting bays with cooling fans in the summer and heated bays in the winter, all with HDTVs in every bay and throughout our sports bar and restaurant. Using our complimentary clubs or your own, take aim at the giant outfield targets and our high-tech balls will score themselves.",
-        "Stock": 12277,
-        "Partner": "Topgolf Las Vegas",
-        "OfferID": 37835
-    },
-    {
-        "Name": "$15 Off Game Play Topgolf",
-        "Price": 25000,
-        "Description": "Enjoy $15 Off Game Play at any Topgolf location! Come Play Around!\n\nTopgolf is 100% golf with clubs, balls, tees, turf, and a ball-picker-upper-cart thing. \n\nTopgolf is also 100% not golf, too, with loud music, giant targets, giant TVs, and hand-crafted food and drinks.",
-        "Stock": 5733,
-        "Partner": "Topgolf",
-        "OfferID": 37708
-    },
-    {
-        "Name": "$169 Catalina Transfers",
-        "Price": 25000,
-        "Description": "Enjoy a luxury helicopter flight from Long Beach to Catalina Island for an unforgettable journey to paradise!",
-        "Stock": 8,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37310
     },
     {
         "Name": "$25 Off Nail Service",
@@ -1262,22 +798,6 @@
         "Stock": 9924,
         "Partner": "ReserveBar",
         "OfferID": 37613
-    },
-    {
-        "Name": "$40 Off Hawaiian Odyssey",
-        "Price": 25000,
-        "Description": "Experience a breathtaking 3-island aerial adventure over Maui, Molokai, and Lanai, featuring stunning views and Shipwreck Beach!",
-        "Stock": 10,
-        "Partner": "Maui",
-        "OfferID": 37628
-    },
-    {
-        "Name": "$50 Off Hollywood\u0026Beyond",
-        "Price": 25000,
-        "Description": "Soar over iconic LA landmarks with $50 off this 40-minute luxury helicopter tour, featuring stunning views of Hollywood and more!",
-        "Stock": 8,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37315
     },
     {
         "Name": "$50 in Free Play",
@@ -1387,7 +907,7 @@
         "Name": "Buy One Get One Gelato",
         "Price": 25000,
         "Description": "Enjoy two decadent servings of Gelato for the price of one!",
-        "Stock": 62,
+        "Stock": 61,
         "Partner": "Bellagio",
         "OfferID": 37115
     },
@@ -1398,14 +918,6 @@
         "Stock": 49,
         "Partner": "Tempo by Hilton New York Times Square ",
         "OfferID": 37654
-    },
-    {
-        "Name": "Complimentary Admission",
-        "Price": 25000,
-        "Description": "Enjoy Complimentary Admission to Madame Tussauds Nashville!\n\nExperience the ultimate music celebration at Madame Tussauds Nashville. This iconic wax museum honors America's musical legends, inviting you to get up close with your favorite stars. Join a multi-sensory journey through Nashville's rich musical history, featuring lifelike figures from country, rock, pop, jazz, and blues.",
-        "Stock": 30,
-        "Partner": "Madame Tussauds Nashville",
-        "OfferID": 37600
     },
     {
         "Name": "Complimentary Coffee",
@@ -1424,14 +936,6 @@
         "OfferID": 37696
     },
     {
-        "Name": "Dallas City Pass",
-        "Price": 25000,
-        "Description": "Enjoy up to 55% Off w/ myVIP!\n\nThe research is done. The savings is significant. If you're looking for the best things to do in Dallas, you'll love the simplicity and convenience of Dallas CityPASS® tickets.",
-        "Stock": 0,
-        "Partner": "Dallas CityPASS®",
-        "OfferID": 34474
-    },
-    {
         "Name": "Free Beer Upgrade",
         "Price": 25000,
         "Description": "Enjoy a free 42oz beer upgrade at TAP Sports bar.",
@@ -1448,36 +952,12 @@
         "OfferID": 37112
     },
     {
-        "Name": "$35 Off Catalina Explorer",
-        "Price": 30000,
-        "Description": "Explore Catalina’s natural beauty with $35 off this tour; featuring Avalon, scenic coves, and stunning island views!",
-        "Stock": 8,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37314
-    },
-    {
-        "Name": "$50 Off Coastal CA",
-        "Price": 30000,
-        "Description": "Enjoy $50 off a 30-minute helicopter tour showcasing the stunning Southern California coastline, including Newport Beach, Laguna, and more!",
-        "Stock": 8,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37316
-    },
-    {
         "Name": "1 Cocktail at Lobby Bar",
         "Price": 30000,
         "Description": "Receive one complimentary cocktail at Lobby Bar.",
-        "Stock": 62,
+        "Stock": 63,
         "Partner": "ARIA",
         "OfferID": 37429
-    },
-    {
-        "Name": "1 Comp Adult Admission",
-        "Price": 30000,
-        "Description": "Enjoy 1 Complimentary Adult Admission to Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 17,
-        "Partner": "Madame Tussauds Las Vegas",
-        "OfferID": 37615
     },
     {
         "Name": "30% Off Room Rate",
@@ -1542,14 +1022,6 @@
         "Stock": 50,
         "Partner": "Tempo by Hilton New York Times Square ",
         "OfferID": 36900
-    },
-    {
-        "Name": "Complimentary Ticket!",
-        "Price": 30000,
-        "Description": "Enjoy a complimentary ticket to explore SEA LIFE Arizona!\n\nExplore 26,000 square feet of marine wonders at SEA LIFE Arizona. Discover thousands of aquatic creatures, interactive touch pools, and a 360° ocean tunnel!",
-        "Stock": 25,
-        "Partner": "SEA LIFE Arizona",
-        "OfferID": 37761
     },
     {
         "Name": "Dollar Cocktails",
@@ -1619,7 +1091,7 @@
         "Name": "$25 TAP Sports Bar Credit",
         "Price": 35000,
         "Description": "Enjoy $25 off your purchase of $50 or more at TAP Sports Bar at Excalibur Hotel \u0026 Casino!",
-        "Stock": 197,
+        "Stock": 198,
         "Partner": "Excalibur",
         "OfferID": 36999
     },
@@ -1680,14 +1152,6 @@
         "OfferID": 36856
     },
     {
-        "Name": "$100 Off Grand Canyon",
-        "Price": 38000,
-        "Description": "Experience Maverick's most popular Grand Canyon helicopter experience. Fly over the Hoover Dam, Lake Mead, the Mojave Desert, and more!",
-        "Stock": 20,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37021
-    },
-    {
         "Name": "$10 Dining Credit",
         "Price": 40000,
         "Description": "$10 Dining Credit at Borgata.",
@@ -1699,7 +1163,7 @@
         "Name": "$10 FREEPLAY",
         "Price": 40000,
         "Description": "Enjoy $10 in FREEPLAY at Borgata Casino.",
-        "Stock": 70,
+        "Stock": 69,
         "Partner": "Atlantic City NJ",
         "OfferID": 37749
     },
@@ -1718,22 +1182,6 @@
         "Stock": 59,
         "Partner": "Mandalay Bay",
         "OfferID": 37117
-    },
-    {
-        "Name": "BOGO Admission",
-        "Price": 40000,
-        "Description": "Purchase full price adult admission and enjoy a complimentary adult admission at Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 98,
-        "Partner": "Madame Tussauds Las Vegas",
-        "OfferID": 37677
-    },
-    {
-        "Name": "Topgolf Swing Suite",
-        "Price": 40000,
-        "Description": "Receive one hour of free golf in the Top Golf Swing Suite with a minimum $50 food and beverage purchase.",
-        "Stock": 25,
-        "Partner": "MGM Springfield",
-        "OfferID": 37710
     },
     {
         "Name": "Complimentary Sandwich",
@@ -1771,7 +1219,7 @@
         "Name": "1 Comp Night MGM Grand",
         "Price": 50000,
         "Description": "Enjoy a one night complimentary stay at the iconic MGM Grand Resort and Casino.",
-        "Stock": 74,
+        "Stock": 75,
         "Partner": "MGM Grand LV",
         "OfferID": 37449
     },
@@ -1787,7 +1235,7 @@
         "Name": "1 Comp Night at Luxor",
         "Price": 50000,
         "Description": "Enjoy one complimentary night at Luxor !",
-        "Stock": 95,
+        "Stock": 94,
         "Partner": "Luxor",
         "OfferID": 37454
     },
@@ -1795,7 +1243,7 @@
         "Name": "1 Comp Night at NYNY",
         "Price": 50000,
         "Description": "Enjoy one complimentary night at New York-New York Casino.",
-        "Stock": 91,
+        "Stock": 90,
         "Partner": "New York-New York",
         "OfferID": 37443
     },
@@ -1803,7 +1251,7 @@
         "Name": "1 Comp Night at Park MGM",
         "Price": 50000,
         "Description": "Enjoy one complimentary night at Park MGM!",
-        "Stock": 99,
+        "Stock": 98,
         "Partner": "Park MGM",
         "OfferID": 37002
     },
@@ -1883,7 +1331,7 @@
         "Name": "Shark Reef Ticket",
         "Price": 50000,
         "Description": "Receive One (1) complimentary ticket to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 54,
+        "Stock": 55,
         "Partner": "Mandalay Bay",
         "OfferID": 37118
     },
@@ -1963,7 +1411,7 @@
         "Name": "50% Off One Brunch Buffet",
         "Price": 65000,
         "Description": "Enjoy 50% off one full-priced brunch buffet at Borgata!",
-        "Stock": 30,
+        "Stock": 29,
         "Partner": "Atlantic City NJ",
         "OfferID": 37695
     },
@@ -1984,18 +1432,10 @@
         "OfferID": 37013
     },
     {
-        "Name": "BOGO Half-Off Vegas Views",
-        "Price": 72000,
-        "Description": "Fly high above the Las Vegas Strip on a breathtaking helicopter tour. Enjoy iconic landmarks with a “Buy One, Get One Half-Off” offer!",
-        "Stock": 28,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37629
-    },
-    {
         "Name": "1 All-Day Scream Pass",
         "Price": 75000,
         "Description": "Enjoy one All-Day Scream Pass at New York-New York.",
-        "Stock": 44,
+        "Stock": 43,
         "Partner": "New York-New York",
         "OfferID": 37006
     },
@@ -2043,7 +1483,7 @@
         "Name": "One Ticket to T.O.K.",
         "Price": 80000,
         "Description": "Receive one (1) Standard complimentary ticket to Tournament of Kings at Excalibur.",
-        "Stock": 17,
+        "Stock": 18,
         "Partner": "Excalibur",
         "OfferID": 37015
     },
@@ -2200,14 +1640,6 @@
         "OfferID": 37008
     },
     {
-        "Name": "Comp Event Rental",
-        "Price": 150000,
-        "Description": "Enjoy a Complimentary $500 Event Rental",
-        "Stock": 0,
-        "Partner": "Play Playground",
-        "OfferID": 37548
-    },
-    {
         "Name": "$100 FP with Room Stay",
         "Price": 250000,
         "Description": "Enjoy your stay at ARIA with $100 in FREEPLAY!",
@@ -2283,17 +1715,9 @@
         "Name": "Enjoy $750 off at NCL",
         "Price": 500000,
         "Description": "Enjoy $750 off your next sailing with Norwegian Cruise Lines!",
-        "Stock": 97,
+        "Stock": 96,
         "Partner": "Various Ports",
         "OfferID": 37634
-    },
-    {
-        "Name": "Comp Vegas Views Flight",
-        "Price": 1000000,
-        "Description": "Enjoy a complimentary nighttime helicopter flight over the Las Vegas Strip, with breathtaking views of iconic landmarks and resorts!",
-        "Stock": 0,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37025
     },
     {
         "Name": "NCL Cruise from SD to MX",
@@ -2310,13 +1734,5 @@
         "Stock": 0,
         "Partner": "Various Ports ",
         "OfferID": 37771
-    },
-    {
-        "Name": "Comp Grand Canyon Flight",
-        "Price": 6000000,
-        "Description": "Experience the most popular Grand Canyon helicopter experience. Fly over the Hoover Dam, Lake Mead, the Mojave Desert and many other sights!",
-        "Stock": 0,
-        "Partner": "Maverick Helicopters",
-        "OfferID": 37123
     }
 ]
