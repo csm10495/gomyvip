@@ -53,7 +53,7 @@ type RewardData struct {
 		Title            string `json:"Title"`
 		ShortDescription string `json:"ShortDescription"`
 		SubTitle         string `json:"SubTitle"`
-		SubTitle2        any    `json:"SubTitle2"`
+		SubTitle2        string `json:"SubTitle2"`
 		SnipeText        string `json:"SnipeText"`
 		SnipeCategory    string `json:"SnipeCategory"`
 		ImageURL         string `json:"ImageURL"`
@@ -122,8 +122,19 @@ func (d RewardData) ToSimplified() mapset.Set[RewardDataSimplified] {
 			description = award.SubTitle
 		}
 
+		title := ""
+		if award.Title != "" {
+			title += award.Title
+		}
+		if award.SubTitle != "" {
+			title += " - " + award.SubTitle
+		}
+		if award.SubTitle2 != "" {
+			title += " - " + award.SubTitle2
+		}
+
 		one := RewardDataSimplified{
-			Name:        strings.TrimSpace(award.Title),
+			Name:        strings.TrimSpace(title),
 			Price:       award.Price,
 			Description: strings.TrimSpace(description),
 			Stock:       quantity,
