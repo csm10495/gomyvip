@@ -35,7 +35,7 @@
         "Name": "$5 Off Ticket - SEA LIFE Arizona",
         "Price": 2500,
         "Description": "Enjoy $5 off a regular ticket purchase to explore SEA LIFE Arizona Aquarium!\n\nExplore 26,000 square feet of marine wonders at SEA LIFE Arizona. Discover thousands of aquatic creatures, interactive touch pools, and a 360° ocean tunnel!",
-        "Stock": 96,
+        "Stock": 95,
         "Partner": "SEA LIFE Arizona",
         "OfferID": 39371
     },
@@ -275,7 +275,7 @@
         "Name": "20% Off Food - 1228 Main in DTLV",
         "Price": 6000,
         "Description": "Enjoy 20% off (Food only) the entire check at 1228 Main Restaurant in Downtown Las Vegas!",
-        "Stock": 23,
+        "Stock": 22,
         "Partner": "1228 Main in Downtown Las Vegas",
         "OfferID": 39149
     },
@@ -299,7 +299,7 @@
         "Name": "Unlimited 1 Day Pass - LV Monorail",
         "Price": 6250,
         "Description": "Unlimited One-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 22,
+        "Stock": 21,
         "Partner": "Las Vegas Monorail",
         "OfferID": 39555
     },
@@ -387,7 +387,7 @@
         "Name": "Unlimited 3 Day Pass - LV Monorail",
         "Price": 8250,
         "Description": "Unlimited Three-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 9,
+        "Stock": 8,
         "Partner": "Las Vegas Monorail",
         "OfferID": 39557
     },
@@ -403,7 +403,7 @@
         "Name": "Unlimited 4 Day Pass - LV Monorail",
         "Price": 9250,
         "Description": "Unlimited Four-Day Pass. Buy one pass at regular price and get one 1/2 Off!",
-        "Stock": 21,
+        "Stock": 20,
         "Partner": "Las Vegas Monorail",
         "OfferID": 39558
     },
@@ -411,7 +411,7 @@
         "Name": "$20 Public House Credit - Luxor",
         "Price": 10000,
         "Description": "Enjoy $20 off your purchase of $40 or more at Public House at Luxor Hotel \u0026 Casino!",
-        "Stock": 179,
+        "Stock": 180,
         "Partner": "Luxor",
         "OfferID": 39315
     },
@@ -443,7 +443,7 @@
         "Name": "$25 off Spa Service - Luxor",
         "Price": 10000,
         "Description": "Enjoy $25 off of any spa service of $50 or more in the Luxor Spa. Offer valid Monday - Sunday.",
-        "Stock": 72,
+        "Stock": 73,
         "Partner": "Luxor",
         "OfferID": 39341
     },
@@ -459,7 +459,7 @@
         "Name": "2-for-1 Tom Size Beers - NY NY",
         "Price": 10000,
         "Description": "Two 40oz Tom Size Beers for the Price of One",
-        "Stock": 52,
+        "Stock": 53,
         "Partner": "New York-New York",
         "OfferID": 39346
     },
@@ -811,7 +811,7 @@
         "Name": "2-for-1 Cocktails - Park MGM",
         "Price": 15000,
         "Description": "Enjoy a complimentary specialty cocktail with the purchase of any specialty cocktail at Mama Rabbit.",
-        "Stock": 23,
+        "Stock": 22,
         "Partner": "Park MGM",
         "OfferID": 39581
     },
@@ -867,7 +867,7 @@
         "Name": "BOGO Cocktails! - Vdara",
         "Price": 15000,
         "Description": "Buy one cocktail and get one free at VICE VERSA Patio \u0026 Lounge.",
-        "Stock": 91,
+        "Stock": 90,
         "Partner": "Vdara",
         "OfferID": 39457
     },
@@ -1107,7 +1107,7 @@
         "Name": "1 Order of Beignets - Beau Rivage",
         "Price": 20000,
         "Description": "Enjoy one complimentary order of beignets at Roasted Bean.",
-        "Stock": 68,
+        "Stock": 67,
         "Partner": "Biloxi",
         "OfferID": 39349
     },
@@ -1115,7 +1115,7 @@
         "Name": "2-for-1 Cocktail! - Excalibur",
         "Price": 20000,
         "Description": "Enjoy a 2-for-1 cocktail at Lobby Bar inside Excalibur.",
-        "Stock": 181,
+        "Stock": 180,
         "Partner": "Excalibur",
         "OfferID": 39582
     },
@@ -1155,7 +1155,7 @@
         "Name": "Appetizer On Us  - Park MGM",
         "Price": 20000,
         "Description": "Enjoy a complimentary appetizer with purchase of an entrée.",
-        "Stock": 40,
+        "Stock": 39,
         "Partner": "Park MGM",
         "OfferID": 39580
     },
@@ -1187,7 +1187,7 @@
         "Name": "Chips and Salsa - Beau Rivage",
         "Price": 20000,
         "Description": "Enjoy one complimentary Chips and Salsa or Queso.",
-        "Stock": 39,
+        "Stock": 38,
         "Partner": "The Daiquiri Shop",
         "OfferID": 39361
     },
@@ -1235,7 +1235,7 @@
         "Name": "2-for-1 Brunch Buffet - MGM Grand",
         "Price": 21250,
         "Description": "Enjoy one complimentary brunch buffet with the purchase of a full price brunch buffet, Monday \u0026 Thursday Only, 8AM - 3PM.",
-        "Stock": 14,
+        "Stock": 12,
         "Partner": "MGM Grand LV",
         "OfferID": 39285
     },
@@ -1243,7 +1243,7 @@
         "Name": "$10 Posh Burger Credit - ARIA",
         "Price": 22000,
         "Description": "Receive $10 off with a $20 purchase at Posh Burger.",
-        "Stock": 26,
+        "Stock": 23,
         "Partner": "ARIA",
         "OfferID": 39577
     },
@@ -1475,7 +1475,7 @@
         "Name": "Buy One Get One Gelato - Bellagio",
         "Price": 25000,
         "Description": "Enjoy two decadent servings of Gelato for the price of one!",
-        "Stock": 65,
+        "Stock": 63,
         "Partner": "Bellagio",
         "OfferID": 39574
     },
@@ -1547,7 +1547,7 @@
         "Name": "$20 Moneyline Credit - ARIA",
         "Price": 30000,
         "Description": "Receive $20 off with a $40 purchase at Moneyline Pizza \u0026 Bar.",
-        "Stock": 21,
+        "Stock": 20,
         "Partner": "ARIA",
         "OfferID": 39573
     },
@@ -1731,7 +1731,7 @@
         "Name": "$100 in FREEPLAY - Royal Caribbean",
         "Price": 37500,
         "Description": "This reward entitles you to a $100 FREEPLAY, with the purchase of a Royal Caribbean cruise (new booking only).\n\nContact Royal Caribbean’s Casino Royale Reservation Center at clubroyale@rccl.com in order to redeem this offer.",
-        "Stock": 44,
+        "Stock": 41,
         "Partner": "Any Sailing",
         "OfferID": 39444
     },
@@ -1747,7 +1747,7 @@
         "Name": "$10 Dining Credit - Borgata",
         "Price": 40000,
         "Description": "$10 Dining Credit at Borgata.",
-        "Stock": 11,
+        "Stock": 9,
         "Partner": "Atlantic City NJ",
         "OfferID": 39367
     },
@@ -1787,7 +1787,7 @@
         "Name": "50% Off One Dinner Buffet - Borgata",
         "Price": 45000,
         "Description": "Enjoy 50% off one full-priced Dinner buffet at Borgata!",
-        "Stock": 14,
+        "Stock": 13,
         "Partner": "Atlantic City NJ",
         "OfferID": 39351
     },
@@ -1867,7 +1867,7 @@
         "Name": "$100 FREEPLAY w/ purchase - NY NY",
         "Price": 50000,
         "Description": "Enjoy your stay at New York-New York with $100 in FREEPLAY!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "New York-New York",
         "OfferID": 39632
     },
@@ -1963,7 +1963,7 @@
         "Name": "Comp Shark Reef Ticket - Mandalay Bay",
         "Price": 50000,
         "Description": "Receive One (1) complimentary ticket to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 36,
+        "Stock": 34,
         "Partner": "Mandalay Bay",
         "OfferID": 39575
     },
@@ -1971,7 +1971,7 @@
         "Name": "Enjoy Free Parking - Borgata",
         "Price": 50000,
         "Description": "One day of complimentary parking at Borgata!",
-        "Stock": 13,
+        "Stock": 14,
         "Partner": "Atlantic City NJ",
         "OfferID": 39290
     },
@@ -1995,7 +1995,7 @@
         "Name": "50% Off One Brunch Buffet - Borgata",
         "Price": 65000,
         "Description": "Enjoy 50% off one full-priced brunch buffet at Borgata!",
-        "Stock": 28,
+        "Stock": 27,
         "Partner": "Atlantic City NJ",
         "OfferID": 39350
     },
@@ -2027,7 +2027,7 @@
         "Name": "50% off 2 Tickets T.O.K - Excalibur",
         "Price": 70000,
         "Description": "Receive 50% off of the purchase of two (2) tickets to Tournament of Kings at Excalibur.",
-        "Stock": 34,
+        "Stock": 33,
         "Partner": "Excalibur",
         "OfferID": 39450
     },
@@ -2035,7 +2035,7 @@
         "Name": "BOGO Half-Off Vegas Views - Maverick Helicopters",
         "Price": 72000,
         "Description": "Fly high above the Las Vegas Strip on a breathtaking helicopter tour. Enjoy iconic landmarks with a “Buy One, Get One Half-Off” offer!",
-        "Stock": 29,
+        "Stock": 28,
         "Partner": "Maverick Helicopters",
         "OfferID": 39316
     },
@@ -2051,7 +2051,7 @@
         "Name": "2-for-1 Brunch Buffet - Excalibur",
         "Price": 75000,
         "Description": "Enjoy a 2-for-1 Brunch Buffet at Excalibur!",
-        "Stock": 106,
+        "Stock": 105,
         "Partner": "Excalibur",
         "OfferID": 39283
     },
@@ -2075,7 +2075,7 @@
         "Name": "Excalibur Night On Us - Excalibur",
         "Price": 75000,
         "Description": "Enjoy a complimentary stay any night of the week. Offering comfortable rooms, casual dining, live entertainment, and classic Vegas fun!",
-        "Stock": 90,
+        "Stock": 88,
         "Partner": "Excalibur",
         "OfferID": 39333
     },
@@ -2091,7 +2091,7 @@
         "Name": "Luxor Night On Us - Luxor",
         "Price": 75000,
         "Description": "Stay in the iconic pyramid with a complimentary Luxor room, offering unique architecture, entertainment, dining, and easy Strip access.",
-        "Stock": 80,
+        "Stock": 81,
         "Partner": "Luxor",
         "OfferID": 39335
     },
@@ -2107,7 +2107,7 @@
         "Name": "One Ticket to T.O.K. - Excalibur",
         "Price": 80000,
         "Description": "Receive one (1) Standard complimentary ticket to Tournament of Kings at Excalibur.",
-        "Stock": 35,
+        "Stock": 34,
         "Partner": "Excalibur",
         "OfferID": 39306
     },
@@ -2139,7 +2139,7 @@
         "Name": "MGM Grand Night On Us - MGM Grand",
         "Price": 100000,
         "Description": "Experience one night at MGM Grand with expansive rooms, headline entertainment, lively nightlife, diverse dining, and nonstop energy",
-        "Stock": 94,
+        "Stock": 96,
         "Partner": "MGM Grand LV",
         "OfferID": 39223
     },
@@ -2155,7 +2155,7 @@
         "Name": "NYNY Night On Us - NY NY",
         "Price": 100000,
         "Description": "Enjoy a complimentary night at New York-New York with skyline-inspired rooms, iconic dining, thrilling entertainment, and high-energy.",
-        "Stock": 92,
+        "Stock": 91,
         "Partner": "New York-New York",
         "OfferID": 39227
     },
@@ -2187,7 +2187,7 @@
         "Name": "1 Comp Adult Admission - Madame Tussauds LV",
         "Price": 120000,
         "Description": "Enjoy 1 Complimentary Adult Admission to Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 21,
+        "Stock": 22,
         "Partner": "Madame Tussauds Las Vegas",
         "OfferID": 39589
     },
@@ -2211,7 +2211,7 @@
         "Name": "Two Nights at Luxor - Luxor",
         "Price": 175000,
         "Description": "Stay in the iconic pyramid for two nights at Luxor, offering unique architecture, entertainment, dining, and easy Strip access.",
-        "Stock": 90,
+        "Stock": 89,
         "Partner": "Luxor",
         "OfferID": 39336
     },
