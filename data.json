@@ -19,7 +19,7 @@
         "Name": "Free Taco - MGM National Harbor",
         "Price": 1000,
         "Description": "Enjoy One Free Taco at MGM National Harbor Diablo's Cantina",
-        "Stock": 29,
+        "Stock": 28,
         "Partner": "MGM National Harbor",
         "OfferID": 39861
     },
@@ -27,7 +27,7 @@
         "Name": "35% Off Admission - Madame Tussauds",
         "Price": 1500,
         "Description": "Enjoy 35% off one admission ticket to Madame Tussauds Nashville!\n\nExperience the ultimate music celebration at Madame Tussauds Nashville. This iconic wax museum honors America's musical legends, inviting you to get up close with your favorite stars. Join a multi-sensory journey through Nashville's rich musical history, featuring lifelike figures from country, rock, pop, jazz, and blues.",
-        "Stock": 50,
+        "Stock": 48,
         "Partner": "Madame Tussauds Nashville",
         "OfferID": 39562
     },
@@ -147,7 +147,7 @@
         "Name": "Comp Sundae  - Uniquely Vegas",
         "Price": 5000,
         "Description": "Enjoy a complimentary Sundae with the purchase of any milkshake!",
-        "Stock": 96,
+        "Stock": 95,
         "Partner": "Hershey's Las Vegas",
         "OfferID": 39554
     },
@@ -339,7 +339,7 @@
         "Name": "1 Complimentary Dessert - MGM Grand",
         "Price": 7500,
         "Description": "Enjoy a complimentary monkey bread dessert at Craftsteak with the purchase of any entrée.",
-        "Stock": 39,
+        "Stock": 38,
         "Partner": "MGM Grand LV",
         "OfferID": 39850
     },
@@ -451,7 +451,7 @@
         "Name": "2-for-1 Cocktail! - Excalibur",
         "Price": 10000,
         "Description": "Enjoy a 2-for-1 cocktail at Lobby Bar inside Excalibur.",
-        "Stock": 178,
+        "Stock": 179,
         "Partner": "Excalibur",
         "OfferID": 39582
     },
@@ -459,7 +459,7 @@
         "Name": "2-for-1 Tom Size Beers - NY NY",
         "Price": 10000,
         "Description": "Two 40oz Tom Size Beers for the Price of One",
-        "Stock": 63,
+        "Stock": 64,
         "Partner": "New York-New York",
         "OfferID": 39852
     },
@@ -555,7 +555,7 @@
         "Name": "Denver - 20% Off - Museum of Illusions",
         "Price": 10000,
         "Description": "Enjoy 20% off tickets to the Museum of Illusions in Denver, Colorado!",
-        "Stock": 466,
+        "Stock": 465,
         "Partner": "Museum of Illusions Denver",
         "OfferID": 39676
     },
@@ -683,7 +683,7 @@
         "Name": "$50 FREEPLAY w/ purchase - Excalibur",
         "Price": 12500,
         "Description": "Enjoy your stay at Excalibur with $50 in FREEPLAY!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "Excalibur",
         "OfferID": 39621
     },
@@ -747,7 +747,7 @@
         "Name": "$25 FREEPLAY w/ purchase - MGM Grand",
         "Price": 15000,
         "Description": "Enjoy your stay at MGM Grand with $25 in FREEPLAY!",
-        "Stock": 98,
+        "Stock": 97,
         "Partner": "MGM Grand LV",
         "OfferID": 39585
     },
@@ -875,7 +875,7 @@
         "Name": "BOGO Cocktails! - Vdara",
         "Price": 15000,
         "Description": "Buy one cocktail and get one free at VICE VERSA Patio \u0026 Lounge.",
-        "Stock": 95,
+        "Stock": 94,
         "Partner": "Vdara",
         "OfferID": 39457
     },
@@ -1435,7 +1435,7 @@
         "Name": "50% off 2 Tix Bee Gees - Excalibur",
         "Price": 25000,
         "Description": "Receive 50% off two tickets to The Australian Bee Gees - A Tribute to the Bee Gees.",
-        "Stock": 49,
+        "Stock": 48,
         "Partner": "Excalibur",
         "OfferID": 39895
     },
@@ -1483,7 +1483,7 @@
         "Name": "Buy One Get One Gelato - Bellagio",
         "Price": 25000,
         "Description": "Enjoy two decadent servings of Gelato for the price of one!",
-        "Stock": 63,
+        "Stock": 64,
         "Partner": "Bellagio",
         "OfferID": 39574
     },
@@ -1579,7 +1579,7 @@
         "Name": "BOGO 50%Off Brunch Buffet - Bellagio",
         "Price": 30000,
         "Description": "Buy 1 Get 1 50% off Brunch Buffet",
-        "Stock": 90,
+        "Stock": 89,
         "Partner": "Bellagio",
         "OfferID": 39747
     },
@@ -1739,7 +1739,7 @@
         "Name": "2-for-1 Brunch Buffet - Excalibur",
         "Price": 37500,
         "Description": "Enjoy a 2-for-1 Brunch Buffet at Excalibur!",
-        "Stock": 100,
+        "Stock": 99,
         "Partner": "Excalibur",
         "OfferID": 39808
     },
@@ -1755,7 +1755,7 @@
         "Name": "$10 Dining Credit - Borgata",
         "Price": 40000,
         "Description": "$10 Dining Credit at Borgata.",
-        "Stock": 1,
+        "Stock": 0,
         "Partner": "Atlantic City NJ",
         "OfferID": 39935
     },
@@ -1771,7 +1771,7 @@
         "Name": "$15 Match Play - Park MGM",
         "Price": 40000,
         "Description": "Receive $15 Match Play on Blackjack at Park MGM!",
-        "Stock": 85,
+        "Stock": 84,
         "Partner": "Park MGM",
         "OfferID": 39749
     },
@@ -1779,7 +1779,7 @@
         "Name": "50% Off Two Tickets - Mandalay Bay",
         "Price": 40000,
         "Description": "Get 50% off when you purchase two adult tickets to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 41,
+        "Stock": 40,
         "Partner": "Mandalay Bay",
         "OfferID": 39576
     },
@@ -1787,7 +1787,7 @@
         "Name": "One Ticket to T.O.K. - Excalibur",
         "Price": 40000,
         "Description": "Receive one (1) Standard complimentary ticket to Tournament of Kings at Excalibur.",
-        "Stock": 29,
+        "Stock": 30,
         "Partner": "Excalibur",
         "OfferID": 39839
     },
@@ -1891,7 +1891,7 @@
         "Name": "$25 Match Play - Park MGM",
         "Price": 50000,
         "Description": "Enjoy $25 in Match Play! Valid only for Blackjack Table Games at Park MGM.",
-        "Stock": 12,
+        "Stock": 11,
         "Partner": "Park MGM",
         "OfferID": 39822
     },
@@ -1915,7 +1915,7 @@
         "Name": "1 Roller Coaster Pass - NY NY",
         "Price": 50000,
         "Description": "Enjoy one complimentary roller coaster pass at New York-New York!",
-        "Stock": 50,
+        "Stock": 49,
         "Partner": "New York-New York",
         "OfferID": 39916
     },
@@ -1947,7 +1947,7 @@
         "Name": "Comp Shark Reef Ticket - Mandalay Bay",
         "Price": 50000,
         "Description": "Receive One (1) complimentary ticket to Shark Reef at Mandalay Bay and come face-to-face with some of earth's most fascinating creatures.",
-        "Stock": 54,
+        "Stock": 52,
         "Partner": "Mandalay Bay",
         "OfferID": 39575
     },
@@ -2011,7 +2011,7 @@
         "Name": "1 All-Day Scream Pass - NY NY",
         "Price": 75000,
         "Description": "Enjoy one All-Day Scream Pass at New York-New York.",
-        "Stock": 44,
+        "Stock": 42,
         "Partner": "New York-New York",
         "OfferID": 39914
     },
@@ -2107,7 +2107,7 @@
         "Name": "NYNY Night On Us - NY NY",
         "Price": 100000,
         "Description": "Enjoy a complimentary night at New York-New York with skyline-inspired rooms, iconic dining, thrilling entertainment, and high-energy.",
-        "Stock": 94,
+        "Stock": 93,
         "Partner": "New York-New York",
         "OfferID": 39703
     },
@@ -2139,7 +2139,7 @@
         "Name": "1 Comp Adult Admission - Madame Tussauds LV",
         "Price": 120000,
         "Description": "Enjoy 1 Complimentary Adult Admission to Madame Tussauds Las Vegas!\n\nMeet your favorite celebrities at Madame Tussauds Las Vegas. With over 100 lifelike wax figures, you can get up close, take photos, and 'hang out' with the stars!",
-        "Stock": 17,
+        "Stock": 16,
         "Partner": "Madame Tussauds Las Vegas",
         "OfferID": 39892
     },
